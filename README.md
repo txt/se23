@@ -25,34 +25,23 @@ Let's find out! Together!
 
 Introduction:
     <a href="/docs/hello.md">Hello!</a>
-::
-    <a href="/docs/syllabus.md">Syllabus</a>
+:: <a href="/docs/syllabus.md">Syllabus</a>
 
 Basics:
      <a href="/docs/goodrepo.md">Versioning</a>
-::
 ::      <a href="/docs/doc.md">Doco</a>
-
 ::      <a href="/docs/license.md">Licenses</a>
-
 ::    <a href="/docs/people.md">People+Processes</a>
-
 ::  <a href="/docs/testing1.md">Testing1</a>
 
 More:
   
 ::    <a href="/docs/require.md">Requirements</a>
-
 ::     <a href="/docs/patterns.md">Patterns</a>
-
 ::    <a href="/docs/abstract.md">Abstraction</a>
-
 ::  <a href="/docs/testing2.md">Testing2</a>
-
 ::    <a href="/docs/cloud.md">Cloud</a><br>
-
 ::    <a href="/docs/ethics.md">Ethics</a></br>
-
 ::   <a href="/docs/ai4se.md">AI for SE</a>
 
 ## Timetable
