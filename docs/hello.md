@@ -183,61 +183,6 @@ Cloud
 ## 2020: AI
 
 
-### AI 
-
-
-Autonomous vehicles.
-
-
-AI-driven Development Is Here: 
-[Should you worry?](/etc/pdf/AI-Driven_Development_Is_Here_Should_You_Worry.pdf)
-e.g. you type:
-
-
-```
-# import a file named“observations.csv”
-# and print the number of rows and columns
-# then use the data to create
-# a plot of the observations
-```
-and Github's copilot tool reponds woth
-
-
-```python
-data = []
-with open(‘observations.csv’) as csvfile:
- reader = csv.reader(csvfile)
- for row in reader:
-   data.append(float(row[0]))
- print(“Number of rows: ,” len(data))
- print(“Number of columns: ,” len(data[0]))
- plt.plot(data)
- plt.show()
-```
-
-
-Warning: this code is learned from 159 Gb   of code from Github. So this is very much **average code** with the average number of bad ideas and secutiry holes. 
-
-
-### ?? Blockchain
-
-
-er... what can we say about blockchain? well...
-
-
-- Aug 12, 2021: Ezra Klein, NY Times:
-  - If the original internet let you easily copy information, 
-    the next internet will let you easily trade ownership of digital goods. 
-  - Crypto lets you make digital goods scarce, which increases their value; 
-    it lets you prove ownership, which allows you to buy and sell them; 
-    and it makes digital identities verifiable, as that’s merely information you own
-  - Together, they unlock the potential for a true economy for digital goods, 
-    where creators actually get rewarded for what they make. I will admit to some skepticism that this is how it’ll play out, 
-    as many of the financiers funding crypto also founded and sit on the boards of the companies that set the terms of today’s internet, but we’ll see.
- - Jun 29, 2022:
-    - [Crypto crisis: how digital currencies went from boom to collapse](https://www.theguardian.com/technology/2022/jun/29/crypto-crisis-digital-currencies-boom-collapse-bitcoin-terra)
-
-
 ## Present day
 
 
@@ -334,6 +279,123 @@ Programmers are the people who know when not to program:
 ![](/etc/img/ratio.png)
 
 
-### And thenthere is generative AI
+### And then  there is generative AI
+
+
+Autonomous vehicles.
+
+
+AI-driven Development Is Here: 
+[Should you worry?](/etc/pdf/AI-Driven_Development_Is_Here_Should_You_Worry.pdf)
+e.g. you type:
+
+
+```
+# import a file named“observations.csv”
+# and print the number of rows and columns
+# then use the data to create
+# a plot of the observations
+```
+and Github's copilot tool reponds woth
+
+
+```python
+data = []
+with open(‘observations.csv’) as csvfile:
+ reader = csv.reader(csvfile)
+ for row in reader:
+   data.append(float(row[0]))
+ print(“Number of rows: ,” len(data))
+ print(“Number of columns: ,” len(data[0]))
+ plt.plot(data)
+ plt.show()
+```
+
+
+Warning: this code is learned from 159 Gb   of code from Github. So this is very much **average code** with the average number of bad ideas and secutiry holes. 
+
+
+April 13, 2023: https://arxiv.org/pdf/2303.12712.pdf: 
+
+
+<img width="405" alt="image" src="https://github.com/txt/se23/assets/29195/80c05b6d-034a-47f2-93c4-5f60bcb6e899">
+
+
+- "beyond its mastery of language, GPT-4 can solve novel and difficult tasks that span mathematics, coding, vision, medicine, law, psychology and more, without needing any special prompting. "
+- "Moreover,   GPT-4’s performance is strikingly close to human-level performance"
+- "(GPT-4) could reasonably be viewed as an early (yet still incomplete) version of an artificial general intelligence system"
+
+
+Drawing unicorns:
+
+
+<img width="760" alt="image" src="https://github.com/txt/se23/assets/29195/6fd7e9bd-a410-45f8-a9e3-e82dfad9f419">
+
+
+ 
+The generative properties are astoundhing:
+
+
+<img width="360" alt="image" src="https://github.com/txt/se23/assets/29195/fde35e8a-489f-4205-a3c1-0000e5f6dca3">
+
+
+<img width="1147" alt="image" src="https://github.com/txt/se23/assets/29195/82750147-3ef0-4cb4-b05a-0339e06e12a8">
+
+
+<img width="1151" alt="image" src="https://github.com/txt/se23/assets/29195/fe4a1061-0a7b-4793-a0cd-cebb4fc38773">
+
+
+<img width="889" alt="image" src="https://github.com/txt/se23/assets/29195/664f9228-46d7-4984-a093-0b18bb03ddd2">
+
+
+<img width="629" alt="image" src="https://github.com/txt/se23/assets/29195/d417490a-4ade-44e5-a7a9-09299027b714">
+
+
+<img width="894" alt="image" src="https://github.com/txt/se23/assets/29195/ddc12bbf-66c0-4af6-9988-6c2fed9ed90c">
+
+
+<img width="711" alt="image" src="https://github.com/txt/se23/assets/29195/7273fec7-d33c-49d3-9a73-fe654d9f60cd">
+
+
+<img width="825" alt="image" src="https://github.com/txt/se23/assets/29195/a985c929-be65-4269-a88e-ae8f4b541875">
+
+
+### Problems with Generative AI
+
+
+Of course, things don't always always get better:
+
+
+- [One study](ttps://www.popsci.com/technology/chatgpt-human-inaccurate/), LLMs getting quirky over time
+   - Dear Chat-GPT: is this number a prime?
+   - March 2023 98%
+   - June 2023: 3% 
+   - “As a paying customer it went from being a great assistant sous chef to dishwasher. Would love to get an official response,”
+- Refining ChatGPT-Generated Code: Characterizing and Mitigating Code Quality Issues  Y Liu, T Le-Cong, R Widyasari, C Tantithamthavorn… 
+  - arXiv preprint arXiv:2307.12596, 2023
+  - Analysis of  4,066 ChatGPT- generated code implemented in two popular programming languages, i.e., Java and Python, for 2,033 LeetCode’s programming tasks.
+
+
+<img width="839" alt="image" src="https://github.com/txt/se23/assets/29195/95dc5d87-0320-4f02-9420-d97e97a8ba64">
+
+
+    
+- “When GPT-4 is wrong, it is wrong, so confidentially.”
+   - How can we tell? Fundamental problem with generative AI
+   - it can provide answers and information that 
+no one ever knows for sure is true
+because there is no provenance.
+- Black box models, inner workings 
+closely guarded secret 
+(But see recent Facebook release of Llama)
+- Questions get routed to different 
+model depending on network traffic. 
+  - Don’t even know what  models are being used
+- All the hardware used for training + inference owned by 1 company, 
+  - At $50 hour, $100 millions to train. 
+  - Prices will not fall due to no competition
+- Model answers are censored by entities we have no control of.
+  - Someone decided what models are generated, how outputs are censored 
+  - Where is  freedom of speech, accountability?
 
 
