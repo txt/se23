@@ -44,13 +44,13 @@ Basics: <td> <td>
 <tr>
 <td>
 More: <td><td>
+::    <a href="/docs/ethics.md">Ethics</a>
    <a href="/docs/require.md">Requirements</a>
 ::     <a href="/docs/patterns.md">Patterns</a>
 ::    <a href="/docs/abstract.md">Abstraction</a>
 ::  <a href="/docs/db.md">Databases</a>
 ::  <a href="/docs/testing2.md">Testing2</a>
 ::    <a href="/docs/cloud.md">Cloud</a>
-::    <a href="/docs/ethics.md">Ethics</a>
 ::   <a href="/docs/ai4se.md">AI for SE</a>
 </tr>
 </table>
@@ -60,17 +60,18 @@ More: <td><td>
 (somewhere in Oct, we'll need to run a showcase session. Details TBD)
 
 
-|When| What|
-|----|-----|
-Sept 18|  Proj1    
-Sept 25|  Midterm1   
-Oct 9|  Fall break   
-Oct 16|  Proj2    
-Ocy 23|  Midterm2   
-Nov 13| Proj3
-Nov 22|  Xgiving break   
-Nov 27|   Midterm3  
-Dec 13|  Exam,12pm (\*)    
+|When| No lecture What|
+|----|     |-----|
+Sept 18|  |Proj1    
+Sept 25|x|  Midterm1   
+Oct 9|x|  Fall break   
+Oct 16|  |Proj2    
+Ocy 23| x| Midterm2   
+Nov 13|  |Proj3
+Nov 22|x |  Xgiving break   
+Nov 27|x|   Midterm3  
+Nov 4 |x|   Essay    
+Dec 13|  |Exam,12pm (\*)    
 
 (\*) For  students who want to replace
 their lowest  mid-term exam score.
