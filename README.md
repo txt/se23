@@ -23,25 +23,37 @@ Let's find out! Together!
 
 ## Lectures
 
-Introduction:
-    <a href="/docs/hello.md">Hello!</a>
-:: <a href="/docs/syllabus.md">Syllabus</a>
+<table>
+<tr><td>Area<td>Ready<td>Planned </tr>
+<tr>
+<td>
+Introduction <td> 
+<td>
+ <a href="/docs/hello.md">Hello!</a> 
+:: <a href="/docs/syllabus.md">Syllabus</a> 
+</tr>
 
-Basics:
-     <a href="/docs/goodrepo.md">Versioning</a>
-::      <a href="/docs/doc.md">Doco</a>
-::      <a href="/docs/license.md">Licenses</a>
-::    <a href="/docs/people.md">People+Processes</a>
+<tr><td>
+Basics: <td> <td>
+| <a href="/docs/goodrepo.md">Versioning</a> 
+::      <a href="/docs/doc.md">Doco</a> i
+::      <a href="/docs/license.md">Licenses</a> 
+::    <a href="/docs/people.md">People+Processes</a> 
 ::  <a href="/docs/testing1.md">Testing1</a>
-
-More:
-::    <a href="/docs/require.md">Requirements</a>
+</tr>
+<tr>
+<td>
+More: <td><td>
+   <a href="/docs/require.md">Requirements</a>
 ::     <a href="/docs/patterns.md">Patterns</a>
 ::    <a href="/docs/abstract.md">Abstraction</a>
+::  <a href="/docs/db.md">Databases</a>
 ::  <a href="/docs/testing2.md">Testing2</a>
 ::    <a href="/docs/cloud.md">Cloud</a>
 ::    <a href="/docs/ethics.md">Ethics</a>
 ::   <a href="/docs/ai4se.md">AI for SE</a>
+</tr>
+</table>
 
 ## Timetable
 
