@@ -1,4 +1,4 @@
-  <a name=top><p>&nbsp;<hr>
+<a name=top><p>&nbsp;<hr>
   <p align=center>
   &nbsp;<a href="/README.md#top">home</a> &nbsp; | &nbsp;
   <a href="/docs/syllabus.md#top">syllabus</a> &nbsp; | &nbsp;
@@ -11,6 +11,4 @@
   <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
   
 
-
-
-# SE23
+# Syllabus
