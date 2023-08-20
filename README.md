@@ -10,7 +10,6 @@
 <a href="/README.md#top"><img   width=900 src="/docs/img/banner.png"></a></p><br clear=all>
   
 # SE23
-
 Can you write code that anyone else wants to use and maintain?
 What's SE's state-of-the-art?
 What does "ethical SE" mean?

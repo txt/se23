@@ -9,14 +9,14 @@
   <a href="/LICENSE.md#top">&copy; 2023</a><br>
   <a href="/README.md#top"><img   width=900 src="/docs/img/banner.png"></a></p><br clear=all>
     
-  # SE23
-  
 
 
 
 
 
 
+
+# Syllabus
   
 CSC 510-001 (1913)  
 MonWed 11:45AM - 1:00PM    
