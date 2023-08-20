@@ -105,12 +105,12 @@ someone else'e code  (groups of 4 people, working in public Github repos-- not N
 |group |mark   | notes                                                      | 
 |------|-------|------------------------------------------------------------|
 |essay (solo)         | 20        |                                         | 
-|                     | 1 bonus   | for ethical brilliance                  |
+|                     | 3 bonus   | for ethical brilliance                  |
 |exam (solo)          | 30        | three 10 marks mid-terms                | 
 |project (group)      | 10+15+20  | project1,2,3                              |
 |                     | 5         | pitch meeting                           |
 |                     | 3 bonus   | if others pick your work for their project2 |
-|total                | 104       | +9 (maybe) in bonus                     |
+|total                | 106       | +9 (maybe) in bonus                     |
 
 
 Also, there is an optional final exam which students can attend if they want to replace the lowest
@@ -154,7 +154,14 @@ Consultation times are Mon,Tue,Wed,Thurs,Frid at various times.
 Consultations will be conducted via ZOOMs unless other arrangements are made.
 - please ensure all relevant materials are acessible and on-line prior to the consultation. DO NOT waste your time and ours during
   consultation finding the relevant links or enabling passwork access.
+- Consulitation times close at midnight before each consult session (and so bookings for the next day means that the lecturer/tutor will apply that time elsewhere).
 
+Thre are 280+ students in this class. To prevent a tsunami of consultation requiest  to the lecturer, the following policy is in place:
+
+- If you ask the lecturer about any non-technical issue...
+- The first question back will be "what what did your tutor say about this?"
+
+(But on the public discord channels, feel free to post as many questions as you want, at any time.)
 
 ### Lecturer
 
@@ -182,12 +189,11 @@ Tim Menzies  (Prof. Monday)
 
 
 <img src="http://ai4se.net/img/AndreMotta.jpg" align=right width=200>
-Andre Lustosa (Mr. Wednesday)
-
+Andre Lustosa 
 
 + Github id:  andre-motta
 + Discord name: SargeHawk#1591
-+ Office Hours: Wednesday, 2:00-4:00
++ Office Hours: 
 + E-mail:  <alustos@ncsu.edu>
 
 
@@ -200,56 +206,19 @@ Andre Lustosa (Mr. Wednesday)
 <p>&nbsp;</p>
 
 
-<img width=200 align=right src="https://user-images.githubusercontent.com/16307121/185726428-a9219b66-5907-4a1a-96e3-39f06dc18290.JPG"> 
+<img width=200 align=right src="/docs/img/yasitha.png">
   
-Weichen Shi (Mr. Friday)
+Yasitha Rajapaksha 
 
 
-+ Github id:  shwch210d
-+ Discord  name: Weichen#8407
-+ Office Hours: Friday, 2:00-4:00  
-+ E-mail: wshi6@ncsu.edu
++ Github id:  Arcane94
++ Discord  name: Yasitha:
++ Office Hours: 
++ E-mail: yrajapa@ncsu.edu
 
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/wshi6)
 
-
-<br clear=all>
-
-
-<p>&nbsp;</p>
-
-
-<img src="https://avatars.githubusercontent.com/u/77703306?s=400&u=35850a7a0591b9d539fa686599d0652d041ffc02&v=4" align=right width=200>
-Leonardo Villalobos-Arias (Mr. Tuesday) 
-
-
-+ Github id: lyonva
-+ Discord  name:  Leonardo Villalobos#5591
-+ Office Hours: Tuesday, 2:00-4:00
-+ E-mail: Leonardo Villalobos-Arias <lvillal@ncsu.edu>
-
-
-[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/lvillal) 
-
-
-<br clear=all>
-
-
-<p>&nbsp;</p>
-
-
-<img src="https://user-images.githubusercontent.com/41660376/89558051-b99e6380-d7e1-11ea-81f3-d8b4fac8aa32.jpg" align=right width=200>
-Xiao Ling (Mr. Thursday)
-
-
-+ Github id:  XiaoLing941212
-+ Discord  name: Xiao#8138
-+ Office Hours: Thursday, 2:00-4:00 
-+ E-mail: xling4@ncsu.edu
-
-
-[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/xling4)
 
 
 <br clear=all>
@@ -260,13 +229,13 @@ Xiao Ling (Mr. Thursday)
 
 <img width=200 align=right src="https://i.imgur.com/Z98l5vE.jpeg"> 
   
-Rahul Yedida (Mr. Monday)
+Rahul Yedida 
 
 
 + Github id:  yrahul3910
 + Discord  name: Rahul Yedida#1323
-+ Office Hours: Monday, 2:00-4:00  
-+ E-mail: yrahul3910@gmail.com
++ Office Hours: 
++ E-mail: ryedida@ncsu.edu
 
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/ryedida)
