@@ -61,7 +61,7 @@ More: <td><td>
 
 
 |When| No lecture What|
-|----|     |-----|
+|----|------|-----|
 Sept 18|  |Proj1    
 Sept 25|x|  Midterm1   
 Oct 9|x|  Fall break   
