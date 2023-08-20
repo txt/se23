@@ -110,7 +110,7 @@ someone else'e code  (groups of 4 people, working in public Github repos-- not N
 |project (group)      | 10+15+20  | project1,2,3                              |
 |                     | 5         | pitch meeting                           |
 |                     | 3 bonus   | if others pick your work for their project2 |
-|total                | 106       | +9 (maybe) in bonus                     |
+|total                | 106       | +6 (maybe) in bonus                     |
 
 
 Also, there is an optional final exam which students can attend if they want to replace the lowest
