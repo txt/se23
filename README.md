@@ -8,7 +8,7 @@
 <a href="/docs/review.md">review</a> &nbsp; | &nbsp;
 <a href="/LICENSE.md#top">&copy; 2023</a></p>
 <hr>
-<p align=center><a href="/README.md#top"><img  align=right width=400 src="/docs/img/banner.png"></a></p>
+<p align=center><a href="/README.md#top"><img  align=right width=600 src="/docs/img/banner.png"></a></p>
   
 # SE23
 
