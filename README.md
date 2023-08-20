@@ -10,9 +10,6 @@
 <hr>
 <p align=center><a href="/README.md#top"><img  width=700 src="/docs/img/banner.png"></a></p>
   
-
-
-
 # SE23
 
 Can you write code that anyone else wants to use and maintain?
@@ -57,8 +54,7 @@ More: <td><td>
 
 ## Timetable
 
-(somewhere in Oct, we'll need to run a showcase session. Details TBD)
-
+(somewhere in Oct, we'll need to run a pitch session. Details TBD)
 
 |When| No lecture| What|
 |----|:------:|-----|
@@ -70,7 +66,7 @@ Ocy 23| x| Midterm2
 Nov 13|  |Proj3
 Nov 22|x |  Xgiving break   
 Nov 27|x|   Midterm3  
-Nov 4 |x|   Essay    
+Dec  4 |x|   Essay    
 Dec 13|  |Exam,12pm (\*)    
 
 (\*) For  students who want to replace
