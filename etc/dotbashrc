@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+# vim: ft=bash ts=2 sw=2 sts=2 et :
+  
+hi() { 
+  tput bold; tput setaf 5
+  cat<<-'EOF'
+                  ___   __
+                 /'___\ /\ \__
+  ____    ___   /\ \__/ \ \ ,_\                __     ___       __
+ /',__\  / __`\ \ \ ,__\ \ \ \/              /'__`\ /' _ `\   /'_ `\
+/\__, `\/\ \L\ \ \ \ \_/  \ \ \_            /\  __/ /\ \/\ \ /\ \L\ \
+\/\____/\ \____/  \ \_\    \ \__\           \ \____\\ \_\ \_\\ \____ \
+ \/___/  \/___/    \/_/     \/__/            \/____/ \/_/\/_/ \/___L\ \
+                                                                /\____/
+                                                                \_/__/
+EOF
+  tput bold; tput setaf 241
+  echo "Short cuts:"
+  alias | sed 's/alias /  /'
+  echo ""
+  tput sgr0
+}
+
+here="$(dirname $(cd $( dirname "${BASH_SOURCE[0]}" ) && pwd ))"
+
+alias bye="gp; tmux detach"
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias gp="git add *;git commit -am save;git push;git status"
+alias grep='grep --color=auto'
+alias ls="ls -G"
+
+mkdir -p $here/docs
+
+here() { cd $1; basename `pwd`; }
+
+PROMPT_COMMAND='echo -ne "📐 $(git branch 2>/dev/null | grep '^*' | colrm 1 2):";PS1="$(here ..)/$(here .):\!\e[m ▶ "'
+hi
