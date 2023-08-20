@@ -8,7 +8,7 @@
   <a href="/docs/review.md">review</a> &nbsp; | &nbsp;
   <a href="/LICENSE.md#top">&copy; 2022</a></p>
   <hr>
-  <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
+  <p align=center><a href="/README.md#top"><img  width=700 src="/docs/img/banner.png"></a></p>
   
 
 
