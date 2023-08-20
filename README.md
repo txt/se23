@@ -60,7 +60,7 @@ More: <td><td>
 (somewhere in Oct, we'll need to run a showcase session. Details TBD)
 
 
-|When| No lecture What|
+|When| No lecture| What|
 |----|------|-----|
 Sept 18|  |Proj1    
 Sept 25|x|  Midterm1   
