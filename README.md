@@ -57,40 +57,19 @@ More: <td><td>
 
 ## Timetable
 
-Aug 21:    
-Aug 23:  
-Aug 28:  
-Aug 30:  
-
-Sept 4:  
-Sept 6:  
-Sept 11:  
-Sept 13:  
 Sept 18:  Proj1    
-Sept 20:  
 Sept 25:  Midterm1   
-Sept 27:  
 
-Oct 2: 
-Oct 4:  
+(somewhere in Oct, we'll need to run a showcase session. Details TBD)
+
 Oct 9:  Fall break   
-Oct 11:  
 Oct 16:  Proj2    
-Oct 18:   
 Ocy 23:  Midterm2   
-Oct 25:   
-Oct 30:  
 
-Nov  6:  
-Nov  8:  
 Nov 13: Proj3
-Nov 15:  
-Nov 20:  
 Nov 22:  Xgiving break   
 Nov 27:   Midterm3  
-Nov 29:   
 
-Dec 4: 
 Dec 13:  exam,12pm(*)    
 
 (\*) Only for  students who want to replace
