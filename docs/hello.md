@@ -10,7 +10,7 @@
   <hr>
   <p align=center><a href="/README.md#top"><img  align=right width=600 src="/docs/img/banner.png"></a></p>
     
-  # SE23
+  
   
 
 
@@ -184,59 +184,11 @@ Cloud
 ## 2020: AI
 
 
-### AI 
 
 
-Autonomous vehicles.
 
 
-AI-driven Development Is Here: 
-[Should you worry?](/etc/pdf/AI-Driven_Development_Is_Here_Should_You_Worry.pdf)
-e.g. you type:
 
-
-```
-# import a file named“observations.csv”
-# and print the number of rows and columns
-# then use the data to create
-# a plot of the observations
-```
-and Github's copilot tool reponds woth
-
-
-```python
-data = []
-with open(‘observations.csv’) as csvfile:
- reader = csv.reader(csvfile)
- for row in reader:
-   data.append(float(row[0]))
- print(“Number of rows: ,” len(data))
- print(“Number of columns: ,” len(data[0]))
- plt.plot(data)
- plt.show()
-```
-
-
-Warning: this code is learned from 159 Gb   of code from Github. So this is very much **average code** with the average number of bad ideas and secutiry holes. 
-
-
-### ?? Blockchain
-
-
-er... what can we say about blockchain? well...
-
-
-- Aug 12, 2021: Ezra Klein, NY Times:
-  - If the original internet let you easily copy information, 
-    the next internet will let you easily trade ownership of digital goods. 
-  - Crypto lets you make digital goods scarce, which increases their value; 
-    it lets you prove ownership, which allows you to buy and sell them; 
-    and it makes digital identities verifiable, as that’s merely information you own
-  - Together, they unlock the potential for a true economy for digital goods, 
-    where creators actually get rewarded for what they make. I will admit to some skepticism that this is how it’ll play out, 
-    as many of the financiers funding crypto also founded and sit on the boards of the companies that set the terms of today’s internet, but we’ll see.
- - Jun 29, 2022:
-    - [Crypto crisis: how digital currencies went from boom to collapse](https://www.theguardian.com/technology/2022/jun/29/crypto-crisis-digital-currencies-boom-collapse-bitcoin-terra)
 
 
 ## Present day
@@ -335,8 +287,44 @@ Programmers are the people who know when not to program:
 ![](/etc/img/ratio.png)
 
 
-### And thenthere is generative AI
+### And then  there is generative AI
+
+
+Autonomous vehicles.
+
+
+AI-driven Development Is Here: 
+[Should you worry?](/etc/pdf/AI-Driven_Development_Is_Here_Should_You_Worry.pdf)
+e.g. you type:
+
+
+```
+# import a file named“observations.csv”
+# and print the number of rows and columns
+# then use the data to create
+# a plot of the observations
+```
+and Github's copilot tool reponds woth
+
+
+```python
+data = []
+with open(‘observations.csv’) as csvfile:
+ reader = csv.reader(csvfile)
+ for row in reader:
+   data.append(float(row[0]))
+ print(“Number of rows: ,” len(data))
+ print(“Number of columns: ,” len(data[0]))
+ plt.plot(data)
+ plt.show()
+```
+
+
+Warning: this code is learned from 159 Gb   of code from Github. So this is very much **average code** with the average number of bad ideas and secutiry holes. 
+
+
 April 13, 2023: https://arxiv.org/pdf/2303.12712.pdf: 
+
 <img width="405" alt="image" src="https://github.com/txt/se23/assets/29195/80c05b6d-034a-47f2-93c4-5f60bcb6e899">
 
 - "beyond its mastery of language, GPT-4 can solve novel and difficult tasks that span mathematics, coding, vision, medicine, law, psychology and more, without needing any special prompting. "
