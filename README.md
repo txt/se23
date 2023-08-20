@@ -25,9 +25,9 @@ Let's find out! Together!
 <tr>
 <td>
 Introduction <td> 
-<td>
  <a href="/docs/hello.md">Hello!</a> 
 :: <a href="/docs/syllabus.md">Syllabus</a> 
+<td>
 </tr>
 
 <tr><td>

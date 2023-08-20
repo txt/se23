@@ -6,12 +6,16 @@
   <a href="https://moodle-courses2324.wolfware.ncsu.edu/course/view.php?id=4575">moodle</a> &nbsp; | &nbsp;
   <a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=d992e131-df71-4368-940d-b064012a875c">video</a> &nbsp; | &nbsp;
   <a href="/docs/review.md">review</a> &nbsp; | &nbsp;
-  <a href="/LICENSE.md#top">&copy; 2022</a></p>
+  <a href="/LICENSE.md#top">&copy; 2023</a></p>
   <hr>
   <p align=center><a href="/README.md#top"><img  width=700 src="/docs/img/banner.png"></a></p>
     
+  # SE23
   
-# Syllabus
+
+
+
+
 
 
   
@@ -35,7 +39,9 @@ In this subject, students will be taught about the start of the art in SE and ho
   - That is demonstrable _good_ and ethrical (compared to something else).
 - Learn the  state of the art in SE
 
+
 This is a _maintainance_ oriented subject where students will extend some substantive prior work.
+
 
 ### Prerequisites
 
@@ -49,6 +55,7 @@ This is a _maintainance_ oriented subject where students will extend some substa
 + Optional, purchase not necessary
   -  [Software Engineering: A Practitioner's Approach, 9th International edition](https://www.amazon.com/Software-Engineering-Ian-Sommerville/dp/0137053460/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 by Roger Pressman 
+
 
 Available in paperback for $4.65 (the shipping costs are actually more than the book).
 
@@ -90,6 +97,7 @@ someone else'e code  (groups of 4 people, working in public Github repos-- not N
  This will demonstrate the important of documentation, 
     design purity, regression tests, etc.
 
+
   - Starting with 75 tasks in project1, we'll focus in on the best half, for
     project2  then the best remaining half for poject3
     - Bonus marks if other people jump to your task
@@ -117,6 +125,7 @@ Also, there is an optional final exam which students can attend if they want to 
 scoring mid-term mark. Please note that if you get a **lower** mark on this final then your lowest
 mid-term mark will then **decrease**. Caveat Emptor.
 
+
  
 With the final grades, the following grade scale will be used: 
 
@@ -143,6 +152,7 @@ sesssion. If there are no bookings, consultation time will be cancelled.
 
 Consultation times are Mon,Tue,Wed,Thurs,Frid at various times.
 
+
 |day| who | when|
 |---|----|-----|
 |M  |    |     |
@@ -151,17 +161,22 @@ Consultation times are Mon,Tue,Wed,Thurs,Frid at various times.
 |Th |    |     |
 |F  |    |     |
 
+
 Consultations will be conducted via ZOOMs unless other arrangements are made.
 - please ensure all relevant materials are acessible and on-line prior to the consultation. DO NOT waste your time and ours during
   consultation finding the relevant links or enabling passwork access.
 - Consulitation times close at midnight before each consult session (and so bookings for the next day means that the lecturer/tutor will apply that time elsewhere).
 
+
 Thre are 280+ students in this class. To prevent a tsunami of consultation requiest  to the lecturer, the following policy is in place:
+
 
 - If you ask the lecturer about any non-technical issue...
 - The first question back will be "what what did your tutor say about this?"
 
+
 (But on the public discord channels, feel free to post as many questions as you want, at any time.)
+
 
 ### Lecturer
 
@@ -191,6 +206,7 @@ Tim Menzies  (Prof. Monday)
 <img src="http://ai4se.net/img/AndreMotta.jpg" align=right width=200>
 Andre Lustosa 
 
+
 + Github id:  andre-motta
 + Discord name: SargeHawk#1591
 + Office Hours: 
@@ -218,7 +234,6 @@ Yasitha Rajapaksha
 
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/wshi6)
-
 
 
 <br clear=all>
