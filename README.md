@@ -17,6 +17,7 @@ What's SE's state-of-the-art?
 What does "ethical SE" mean?
 Let's find out! Together!
 
+<br clear=all>
 
 ## Lectures
 
