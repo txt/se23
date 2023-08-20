@@ -70,8 +70,8 @@ Ocy 23|  Midterm2
 Nov 13| Proj3
 Nov 22|  Xgiving break   
 Nov 27|   Midterm3  
-Dec 13|  exam,12pm (\*)    
+Dec 13|  Exam,12pm (\*)    
 
-(\*) Only for  students who want to replace
+(\*) For  students who want to replace
 their lowest  mid-term exam score.
  
