@@ -43,7 +43,7 @@ More:
   
 ::    <a href="/docs/require.md">Requirements</a>
 
-::     <a href="/docs/patterns.md">Patterns</a>>
+::     <a href="/docs/patterns.md">Patterns</a>
 
 ::    <a href="/docs/abstract.md">Abstraction</a>
 
