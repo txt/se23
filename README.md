@@ -40,8 +40,8 @@ More:
 ::     <a href="/docs/patterns.md">Patterns</a>
 ::    <a href="/docs/abstract.md">Abstraction</a>
 ::  <a href="/docs/testing2.md">Testing2</a>
-::    <a href="/docs/cloud.md">Cloud</a><br>
-::    <a href="/docs/ethics.md">Ethics</a></br>
+::    <a href="/docs/cloud.md">Cloud</a>
+::    <a href="/docs/ethics.md">Ethics</a>
 ::   <a href="/docs/ai4se.md">AI for SE</a>
 
 ## Timetable
