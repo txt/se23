@@ -90,8 +90,7 @@ Grades come from
 Exams and essays are done individually. Everything else is done in  
 <a href="https://docs.google.com/spreadsheets/d/1sdIwdLxZ551NChuj5Pm9FCdRRhxVdVVIPgDpNg5ZFVY/edit#gid=0">groups of 4</a>.
 
-
-- Projects comprise   large maintainance tasks where you have to extend
+- Projects comprise  large maintainance tasks where you have to extend
 someone else'e code  (groups of 4 people, working in public Github repos-- not NCSU GH):
  This will demonstrate the important of documentation, 
     design purity, regression tests, etc.
@@ -149,7 +148,8 @@ Consultation times between lecturer and staff are available via calendy. Booking
 sesssion. If there are no bookings, consultation time will be cancelled.
 
 
-Consultation times are Mon,Tue,Wed,Thurs,Frid at various times.
+Consultation times are Mon,Tue,Wed,Thurs,Frid at various times. Ideally, you consult with your "home" tutor but for urgent issues,
+make a next day appointment with anyone at all.
 
 
 |day| who | when|
@@ -174,7 +174,7 @@ Thre are 280+ students in this class. To prevent a tsunami of consultation requi
 - The first question back will be "what what did your tutor say about this?"
 
 
-(But on the public discord channels, feel free to post as many questions as you want, at any time.)
+(And on the public discord channels, feel free to post as many questions as you want, at any time.)
 
 
 ### Lecturer
@@ -232,7 +232,7 @@ Yasitha Rajapaksha
 + E-mail: yrajapa@ncsu.edu
 
 
-[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/wshi6)
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/yrajapa/yasitha-s-office-hours)
 
 
 <br clear=all>
@@ -252,7 +252,7 @@ Rahul Yedida
 + E-mail: ryedida@ncsu.edu
 
 
-[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/ryedida)
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/ryedida1/csc510-office-hours)
 
 
 <br clear=all>
