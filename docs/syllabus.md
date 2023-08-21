@@ -157,8 +157,8 @@ Consultation times are Mon,Tue,Wed,Thurs,Frid at various times.
 |M  |    |     |
 |T  |dr timm | 1pm | 
 |W  |    |     |
-|Th |    |     |
-|F  |    |     |
+|Th | yasitha   | 2-4pm     |
+|F  | rahul  | 2-4pm    |
 
 
 Consultations will be conducted via ZOOMs unless other arrangements are made.
@@ -228,7 +228,7 @@ Yasitha Rajapaksha
 
 + Github id:  Arcane94
 + Discord  name: Yasitha:
-+ Office Hours: 
++ Office Hours:  2-4pm
 + E-mail: yrajapa@ncsu.edu
 
 
@@ -248,7 +248,7 @@ Rahul Yedida
 
 + Github id:  yrahul3910
 + Discord  name: Rahul Yedida#1323
-+ Office Hours: 
++ Office Hours:  Friday 2-4pm
 + E-mail: ryedida@ncsu.edu
 
 
