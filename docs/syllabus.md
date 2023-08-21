@@ -182,9 +182,7 @@ Thre are 280+ students in this class. To prevent a tsunami of consultation requi
 
 <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right width=200>
 
-
-Tim Menzies  (Prof. Monday)
-
+Tim Menzies 
 
 + Github id: timm
 + Discord name: timm
