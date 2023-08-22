@@ -30,9 +30,14 @@ Deliverables:
 
 - The easy part: for five prior projects, score them according to the project2 rubic 
   - Which, in summary, means "does this repo loo **good** (defined before)
-  - TO make that more precise, score all five repos as per the project2 rubric
+  - To make that more precise, score all five repos as per the project2 rubric
     - And note that that we will be using that rubric to score your project2 submissions.
 - The hard part: for one prior project, a 2 minute YouTube video (with a 2023 date) showing you can run that system
+
+To find your five, look for your project number in [this sheet](https://docs.google.com/spreadsheets/d/1SksEQ4_aKlqNwpXwh_Lsi_oh2PsWCBfhYhvN67MQY3k/edit#gid=1815922898):
+- And if you are totally in love with code other than this five just let ask us for permission to substitute
+  - which we may not give if TOO MANY groups keep asking for the SAME project.
+- To ask for permission to swith projects, please use the [#project1 channel](https://discord.com/channels/1141723836409188436/1142157904707846244)
 
 
 How to submit:
