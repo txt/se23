@@ -22,13 +22,13 @@
 Aim: assess and reuse other people's code.
 
 
-Here, you will be working with code written by students from this subject from the last three years.
+- Here, you will be working with code written by students from this subject from the last three years.
 
 
 Deliverables: 
 
 
-- The easy part: for five prior projects, score them according to the project2 rubic 
+- The easy part: for five prior projects, score them according to the [project2 rubic](project2.md).
   - Which, in summary, means "does this repo loo **good** (defined before)
   - To make that more precise, score all five repos as per the project2 rubric
     - And note that that we will be using that rubric to score your project2 submissions.
