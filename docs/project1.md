@@ -23,21 +23,26 @@ Aim: assess and reuse other people's code.
 
 
 - Here, you will be working with code written by students from this subject from the last three years.
-
+- Try and remember all the pain points seen in the following project.
 
 Deliverables: 
 
 
-- The easy part: for five prior projects, score them according to the [project2 rubic](project2.md).
+- Part1 (easy): for five prior projects, score them according to the [project2 rubic](project2.md).
   - Which, in summary, means "does this repo loo **good** (defined before)
   - To make that more precise, score all five repos as per the project2 rubric
     - And note that that we will be using that rubric to score your project2 submissions.
-- The hard part: for one prior project, a 2 minute YouTube video (with a 2023 date) showing you can run that system
+-   Part2 (hard): for one prior project, a 2 minute YouTube video (with a 2023 date) showing you can run that system
+  - Expectation management:
+    - Probably, your first selected project will NOT run in 2023. So you will try this and that and after much cursing, switch to another project.
+- Part3 (important): Write 750 words in a mardown file describing what was hard about this process, how that pain could have been avoided and
+    **what practices you are committing to perform in project2** to avoid that pain.
+
 
 To find your five, look for your project number in [this sheet](https://docs.google.com/spreadsheets/d/1SksEQ4_aKlqNwpXwh_Lsi_oh2PsWCBfhYhvN67MQY3k/edit#gid=1815922898):
 - And if you are totally in love with code other than this five just let ask us for permission to substitute
   - which we may not give if TOO MANY groups keep asking for the SAME project.
-- To ask for permission to swith projects, please use the [#project1 channel](https://discord.com/channels/1141723836409188436/1142157904707846244)
+- To ask for permission to switch projects, please use the [#project1 channel](https://discord.com/channels/1141723836409188436/1142157904707846244)
 
 
 How to submit:
