@@ -8,11 +8,7 @@
   <a href="/docs/review.md">review</a> &nbsp; | &nbsp;
   <a href="/LICENSE.md#top">&copy; 2023</a><br>
   <a href="/README.md#top"><img   width=900 src="/docs/img/banner.png"></a></p><br clear=all>
-    
-
-
-
-
+  
 
 
 
@@ -89,6 +85,7 @@ Grades come from
 
 Exams and essays are done individually. Everything else is done in  
 <a href="https://docs.google.com/spreadsheets/d/1sdIwdLxZ551NChuj5Pm9FCdRRhxVdVVIPgDpNg5ZFVY/edit#gid=0">groups of 4</a>.
+
 
 - Projects comprise  large maintainance tasks where you have to extend
 someone else'e code  (groups of 4 people, working in public Github repos-- not NCSU GH):
@@ -182,7 +179,9 @@ Thre are 280+ students in this class. To prevent a tsunami of consultation requi
 
 <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right width=200>
 
+
 Tim Menzies 
+
 
 + Github id: timm
 + Discord name: timm
