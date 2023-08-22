@@ -19,13 +19,15 @@
 # Project1
 
 
-Aim: assess and reuse other people's code.
+##  Aim
+
+Assess and reuse other people's code.
 
 
 - Here, you will be working with code written by students from this subject from the last three years.
 - Try and remember all the pain points seen in the following project.
 
-Deliverables: 
+## Deliverables 
 
 
 - Part1 (easy): for five prior projects, score them according to the [project2 rubic](project2.md).
@@ -39,20 +41,25 @@ Deliverables:
     **what practices you are committing to perform in project2** to avoid that pain.
 
 
-To find your five, look for your project number in [this sheet](https://docs.google.com/spreadsheets/d/1SksEQ4_aKlqNwpXwh_Lsi_oh2PsWCBfhYhvN67MQY3k/edit#gid=1815922898):
+## Where to Start
+
+To find your five projects, look for your project number in [this sheet](https://docs.google.com/spreadsheets/d/1SksEQ4_aKlqNwpXwh_Lsi_oh2PsWCBfhYhvN67MQY3k/edit#gid=1815922898):
 - And if you are totally in love with code other than this five just let ask us for permission to substitute
   - which we may not give if TOO MANY groups keep asking for the SAME project.
 - To ask for permission to switch projects, please use the [#project1 channel](https://discord.com/channels/1141723836409188436/1142157904707846244)
 
 
-How to submit:
+## How to submit
+
 - Create a public Github repo (not at NC state)
 - a sub-directory "proj1"
 - Place your score cards and link to video into "proj1/README.md"
 - Submit a url to your GH project to Moodle.
 
 
-## Good practices for Effective Teaming
+## Notes
+
+### Good practices for Effective Teaming
 
 
 |What | Notes|
@@ -69,7 +76,7 @@ How to submit:
 || group meeting moderator rotated among  the group|
 
 
-## What do we mean by a "good repo"
+### What do we mean by a "good repo"
 
 
 Good repos have bling:
@@ -120,7 +127,7 @@ What are the features of  the  following repos that make them "good"?
 - https://github.com/marcotcr/lime
 
 
-## On the merits of a "boast video"
+### On the merits of a "boast video"
 
 
 Yes, when "selling" your project it is tempting to prepare a short glossy video. 
