@@ -314,8 +314,6 @@ Warning: this code is learned from 159 Gb   of code from Github. So this is very
 April 13, 2023: https://arxiv.org/pdf/2303.12712.pdf: 
 
 
-<img width="405" alt="image" src="https://github.com/txt/se23/assets/29195/80c05b6d-034a-47f2-93c4-5f60bcb6e899">
-
 
 - "beyond its mastery of language, GPT-4 can solve novel and difficult tasks that span mathematics, coding, vision, medicine, law, psychology and more, without needing any special prompting. "
 - "Moreover,   GPT-4’s performance is strikingly close to human-level performance"
@@ -324,37 +322,20 @@ April 13, 2023: https://arxiv.org/pdf/2303.12712.pdf:
 
 Drawing unicorns:
 
+- see the [unicorn example](https://arxiv.org/pdf/2303.12712.pdf#page=7)
 
-<img width="760" alt="image" src="https://github.com/txt/se23/assets/29195/6fd7e9bd-a410-45f8-a9e3-e82dfad9f419">
 
 
  
-The generative properties are astoundhing:
+The generative properties are astounding:
 
-
-<img width="360" alt="image" src="https://github.com/txt/se23/assets/29195/fde35e8a-489f-4205-a3c1-0000e5f6dca3">
-
-
-<img width="1147" alt="image" src="https://github.com/txt/se23/assets/29195/82750147-3ef0-4cb4-b05a-0339e06e12a8">
-
-
-<img width="1151" alt="image" src="https://github.com/txt/se23/assets/29195/fe4a1061-0a7b-4793-a0cd-cebb4fc38773">
-
-
-<img width="889" alt="image" src="https://github.com/txt/se23/assets/29195/664f9228-46d7-4984-a093-0b18bb03ddd2">
-
-
-<img width="629" alt="image" src="https://github.com/txt/se23/assets/29195/d417490a-4ade-44e5-a7a9-09299027b714">
-
-
-<img width="894" alt="image" src="https://github.com/txt/se23/assets/29195/ddc12bbf-66c0-4af6-9988-6c2fed9ed90c">
-
-
-<img width="711" alt="image" src="https://github.com/txt/se23/assets/29195/7273fec7-d33c-49d3-9a73-fe654d9f60cd">
-
-
-<img width="825" alt="image" src="https://github.com/txt/se23/assets/29195/a985c929-be65-4269-a88e-ae8f4b541875">
-
+- Discussion , then generating, a [song](https://arxiv.org/pdf/2303.12712.pdf#page=20)
+- See table2 where ChatGPT does better than 
+  [newbie programmers](https://arxiv.org/pdf/2303.12712.pdf#page=21)
+- See the 
+  [natural language to Python](https://arxiv.org/pdf/2303.12712.pdf#page=22) exxaple.
+- See the 
+  [natural language to executtion](https://arxiv.org/pdf/2303.12712.pdf#page=2s82) exxaple.
 
 ### Problems with Generative AI
 
