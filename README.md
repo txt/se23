@@ -27,17 +27,18 @@ Let's find out! Together!
 <tr>
 <td>
 Introduction <td> 
- <a href="/docs/hello.md">Hello!</a> 
-:: <a href="/docs/syllabus.md">Syllabus</a> 
+<a href="/docs/syllabus.md">Syllabus</a> 
+:: <a href="/docs/hello.md">Hello!</a> 
 <td>
 </tr>
 
 <tr><td>
-Basics: <td> <td>
- <a href="/docs/goodrepo.md">Versioning</a> 
-::      <a href="/docs/doc.md">Doco</a> 
-::      <a href="/docs/license.md">Licenses</a> 
-::    <a href="/docs/people.md">People+Processes</a> 
+Basics: <td> 
+<a href="/docs/goodrepo.md">Versioning</a> 
+<td>
+    <a href="/docs/doc.md">Doco</a> 
+::  <a href="/docs/license.md">Licenses</a> 
+::  <a href="/docs/people.md">People+Processes</a> 
 ::  <a href="/docs/testing1.md">Testing1</a>
 </tr>
 <tr>
