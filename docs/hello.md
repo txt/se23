@@ -13,6 +13,8 @@
 
 
 
+
+
 ## SE: the times they are a changin'
 
 
@@ -314,7 +316,6 @@ Warning: this code is learned from 159 Gb   of code from Github. So this is very
 April 13, 2023: https://arxiv.org/pdf/2303.12712.pdf: 
 
 
-
 - "beyond its mastery of language, GPT-4 can solve novel and difficult tasks that span mathematics, coding, vision, medicine, law, psychology and more, without needing any special prompting. "
 - "Moreover,   GPT-4’s performance is strikingly close to human-level performance"
 - "(GPT-4) could reasonably be viewed as an early (yet still incomplete) version of an artificial general intelligence system"
@@ -322,12 +323,13 @@ April 13, 2023: https://arxiv.org/pdf/2303.12712.pdf:
 
 Drawing unicorns:
 
-- see the [unicorn example](https://arxiv.org/pdf/2303.12712.pdf#page=7)
 
+- see the [unicorn example](https://arxiv.org/pdf/2303.12712.pdf#page=7)
 
 
  
 The generative properties are astounding:
+
 
 - Discussion , then generating, a [song](https://arxiv.org/pdf/2303.12712.pdf#page=20)
 - See table2 where ChatGPT does better than 
@@ -336,6 +338,7 @@ The generative properties are astounding:
   [natural language to Python](https://arxiv.org/pdf/2303.12712.pdf#page=22) exxaple.
 - See the 
   [natural language to executtion](https://arxiv.org/pdf/2303.12712.pdf#page=2s82) exxaple.
+
 
 ### Problems with Generative AI
 
@@ -351,9 +354,6 @@ Of course, things don't always always get better:
 - Refining ChatGPT-Generated Code: Characterizing and Mitigating Code Quality Issues  Y Liu, T Le-Cong, R Widyasari, C Tantithamthavorn… 
   - arXiv preprint arXiv:2307.12596, 2023
   - Analysis of  4,066 ChatGPT- generated code implemented in two popular programming languages, i.e., Java and Python, for 2,033 LeetCode’s programming tasks.
-
-
-<img width="839" alt="image" src="https://github.com/txt/se23/assets/29195/95dc5d87-0320-4f02-9420-d97e97a8ba64">
 
 
     

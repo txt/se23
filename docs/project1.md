@@ -8,7 +8,6 @@
   <a href="/docs/review.md">review</a> &nbsp; | &nbsp;
   <a href="/LICENSE.md#top">&copy; 2023</a><br>
   <a href="/README.md#top"><img   width=900 src="/docs/img/banner.png"></a></p><br clear=all>
-    
   
 
 
@@ -21,11 +20,13 @@
 
 ##  Aim
 
+
 Assess and reuse other people's code.
 
 
 - Here, you will be working with code written by students from this subject from the last three years.
 - Try and remember all the pain points seen in the following project.
+
 
 ## Deliverables 
 
@@ -43,6 +44,7 @@ Assess and reuse other people's code.
 
 ## Where to Start
 
+
 To find your five projects, look for your project number in [this sheet](https://docs.google.com/spreadsheets/d/1SksEQ4_aKlqNwpXwh_Lsi_oh2PsWCBfhYhvN67MQY3k/edit#gid=1815922898):
 - And if you are totally in love with code other than this five just let ask us for permission to substitute
   - which we may not give if TOO MANY groups keep asking for the SAME project.
@@ -51,6 +53,7 @@ To find your five projects, look for your project number in [this sheet](https:/
 
 ## How to submit
 
+
 - Create a public Github repo (not at NC state)
 - a sub-directory "proj1"
 - Place your score cards and link to video into "proj1/README.md"
@@ -58,6 +61,7 @@ To find your five projects, look for your project number in [this sheet](https:/
 
 
 ## Notes
+
 
 ### Good practices for Effective Teaming
 

@@ -11,7 +11,12 @@
   
 
 
+
+
+
+
 why use slides? there's this thing called version contol that i hear is pretty cool
+
 
 $$A_{m,n} = 
  \begin{pmatrix}
@@ -22,7 +27,10 @@ $$A_{m,n} =
  \end{pmatrix}
  $$ 
 
+
 please see my [Makefile](Makefile). It takes the first para from [../README.md](../README.md) and replaces para1 on all the markdowns you tell it too. so unfiorm header on all pages
 
+
 this is how i write my slides.
+
 
