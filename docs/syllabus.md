@@ -271,11 +271,11 @@ Yasitha Rajapaksha
 
 <img width=200 align=right src="https://i.imgur.com/Z98l5vE.jpeg"> 
   
-Rahul Yedida 
+Rahul Yedida. 
 
 
 + Github id:  yrahul3910
-+ Discord  name: Rahul Yedida#1323
++ Discord  name: burnin.red
 + Office Hours:  Friday 2-4pm
 + E-mail: ryedida@ncsu.edu
 
