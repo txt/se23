@@ -69,7 +69,8 @@ Medium weight, highly recommended (asiidoc):
   
 Pdoc3: Python doc strings ⇒ markdown ⇒ web pages  
   
- <img width=600 src="https://user-images.githubusercontent.com/29195/130997647-d933884e-8e5c-4f0c-a367-6a5d69bb1df1.png">
+ <a href="https://timm.github.io/bnbad/"><img 
+width=600 src="https://user-images.githubusercontent.com/29195/130997647-d933884e-8e5c-4f0c-a367-6a5d69bb1df1.png"></a>
 
 
  Trans-document documentation tools
