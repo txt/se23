@@ -154,9 +154,10 @@ make a next day appointment with anyone at all.
 
 |day| who | when|
 |---|----|-----|
-|M  |    |     |
-|T  |dr timm | 1pm | 
-|W  |    |     |
+|M  | sam   | 12-2pm    |
+|T  |dr timm | 1-3pm | 
+|T  |andre | 2-4pm |
+|W  | sherry   |  4-6pm   |
 |Th | yasitha   | 2-4pm     |
 |F  | rahul  | 2-4pm    |
 
@@ -190,7 +191,7 @@ Tim Menzies
 + Discord name: timm
 + E-Mail: timm@ieee.org: Only use this email for private matters. All other class communication should be via the class news group,    listed below.
 + Phone: 304-376-2859: **Do not use** this number, except in the most dire of circumstances (best way to contact me is via email).
-+ Office Hours: Monday, 2:00-4:00 and by request.
++ Office Hours: Tuesday, 1:00-3:00 and by request.
 
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/timmenzies/15min)
@@ -201,6 +202,17 @@ Tim Menzies
 
 ### Tutors
 
+San Gilson
+
+
++ Discord  name: emracool
++ Office Hours:  Monday 12-2pm
++ E-mail: sagilson@ncsu.edu
+
+
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/sagilson/sagilson-cs510-oh?month=2023-08)
+
+
 
 <img src="http://ai4se.net/img/AndreMotta.jpg" align=right width=200>
 Andre Lustosa 
@@ -208,15 +220,31 @@ Andre Lustosa
 
 + Github id:  andre-motta
 + Discord name: SargeHawk#1591
-+ Office Hours: 
++ Office Hours:  Tues 2-4pm
 + E-mail:  <alustos@ncsu.edu>
 
 
-[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/alustos)
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/alustos/office-hours)
 
 
 <br clear=all>
 
+
+<p>&nbsp;</p>
+
+
+Xueqi (Sherry) Yang
+
+
++ Discord  name: xueqisherryyang
++ Office Hours:  Wed 4-6pm
++ E-mail: xyang37@ncsu.edu
+
+
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/d/4pk-ncv-jjb/csc-510-office-hours )
+
+
+<br clear=all>
 
 <p>&nbsp;</p>
 
@@ -228,7 +256,7 @@ Yasitha Rajapaksha
 
 + Github id:  Arcane94
 + Discord  name: Yasitha:
-+ Office Hours:  2-4pm
++ Office Hours:  Thursday 2-4pm
 + E-mail: yrajapa@ncsu.edu
 
 
