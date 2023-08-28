@@ -19,7 +19,40 @@
 
 
 [git - the simple guide](https://rogerdudler.github.io/git-guide/)
-  
+ 
+## Distributed (e.g.GH) versus centrailized (e.g. SVN)
+
+
+- Distributed (e.g. GIT) 
+  - Operates locally so you can work on offline, without a network
+
+  - No Aa single point of failure. Any "main" repository can be restored from
+    a local copies.
+  - Very good at merging.
+  - All users can acccess all parts of repo (great for coding, bad  for security)
+  - Problems with large binaries
+  - Higher learning curve. Commit? then push? Say what?
+
+```
+You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+```
+
+- Centralized (e.g. SVN)
+  - centralized "boss", and many "workers"
+  - easier mental model (for newcomers)
+  - contributor’s access can be limited to particular directories
+    and files (good for secutiry)
+  - Efficiently stores large binary files. 
+  - Limited off-line supports
+    (everything operates on a
+     centralized repository using a client-server approach)
+  - Centralized repository server can be a single point of failure.
+
 # What makes for a  "good" repo
 
 
