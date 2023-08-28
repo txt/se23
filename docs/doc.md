@@ -29,6 +29,11 @@
 ![image](https://user-images.githubusercontent.com/29195/130994411-6dffc04e-a8fd-442d-bff7-0e8ee702197b.png)
 
 
+- What a great documentation (first "C" book):
+  - Chapter1:
+    [A modern  work of art](https://www.ccapitalia.net/descarga/docs/1978-ritchie-the-c-programming-language.pdf).
+
+
 ##   Example of good “why” documentation
 
 
@@ -46,19 +51,22 @@ e.g. [Starship](https://github.com/starship/starship)
 ## Some Documentation Generation tools'
 
 
-  Lightweight (markdown):
+ Lightweight (markdown):
   
   ![image](https://user-images.githubusercontent.com/29195/130996948-68d19e6e-c7ed-443f-a906-2e01e307f146.png)
-  
-  Heavyweight (latex):
+ 
+Medium weight, highly recommended (asiidoc):
+
+
+- see [asciidoclive](https://asciidoclive.com/edit/scratch/1)
+ 
+ Heavyweight (latex):
   
   ![image](https://user-images.githubusercontent.com/29195/130997040-797ccb18-176e-41ec-9275-a53134343905.png)
 
 
 (Aside: please take a moment to read the [sad, sad story about markdown's creator](https://en.wikipedia.org/wiki/Aaron_Swartz)).
   
- 
- 
 Pdoc3: Python doc strings ⇒ markdown ⇒ web pages  
   
  <img width=600 src="https://user-images.githubusercontent.com/29195/130997647-d933884e-8e5c-4f0c-a367-6a5d69bb1df1.png">
@@ -67,6 +75,68 @@ Pdoc3: Python doc strings ⇒ markdown ⇒ web pages
  Trans-document documentation tools
 - [Pandoc](https://pandoc.org/Pandoc)
   ![image](https://user-images.githubusercontent.com/29195/130997844-830d0381-48bb-484a-b0fb-9afb7dc358f0.png)
+
+
+## Documentation words of wisdom
+
+
+- Great list of pointers:
+  - https://github.com/sixhobbits/technical-writing/blob/master/resources.md
+
+
+- Doc should be kept under version ctonrol
+  - Maybe even store your documentation in the same repository as its corresponding product source code.
+    - Big win with versioned documentation
+      - People can go back to the doco at that that for that version of the code. Bug win!
+    - Developers are more likely to contribute if they don't have to clone a separate repository.
+
+
+Etter, Andrew. Modern Technical Writing: An Introduction to Software Documentation (p. 15). Kindle Edition. 
+
+
+- I have perhaps an irrational bias towards static websites. I love them. I love their speed, simplicity, portability, and security. You can host static websites practically anywhere, including Amazon S3 and GitHub Pages. They have no server-side application dependencies, no databases, and nothing to install, so migrating the entire site is as easy as moving a directory.
+
+
+- Doc should answer 4 questions:
+  - What is this product? Why would anyone want it?
+  - How does this product fit into a broader ecosystem, if at all? Does it have any dependencies?
+  - Where can I acquire this product? If there are multiple distribution packages, which should I choose and why?
+  - How do I install the product? What are the basic configuration options, if any?
+  - What does a simple, start to finish operation look like?
+    - Some e.g.  pictorial walkthrough to a functional code sample
+- Bias towards including headers, tables, lists, diagrams, and images. 
+  - These additions make your writing more approachable and simpler to scan than 
+    paragraph after paragraph of prose.
+- Dont use wikis (if you even remember them) 
+  "In short, for a wiki to make sense, your documentation should
+  be uncontroversial and never need to be versioned. You also
+  shouldn't mind writing in an inferior editor, only working online,
+  and maintaining a piece of enterprise software."
+- Don't use MS Word
+  - "Microsoft Word is a wonderful choice for creating résumés and a
+     horrible choice for creating documentation.
+  -  "Its lone purpose in
+     this world—one that, again, it really does perform admirably- is
+     to create short, attractive PDFs that people can read and discard.
+  -  "Documentation with any sort of lifespan needs to be kept in version
+     control, which Word's DOCX file format (a compressed collection
+      of XML files) actively opposes. 
+  -  "Documentation should live online,
+     and Word's HTML export is totally unsuitable for creating
+     websites."
+- WRONG: Technical writers produce comprehensive documentation.
+  - RIGHT: Writing should be the minimum possible length. 
+    Huge blocks of writing look intimidating, and excessive content
+    waters down useful content. Identify what the audience actually
+    needs to know, and include only that.
+- If you aren't keeping an eye on documentation metrics, you're making a huge mistake. 
+  User research is wonderful, but knowing exactly which pages are most popular, your site's 
+   bounce rate, and common behavioral flows are all invaluable.
+- Pandoc is a marvelous tool for converting between markup formats. It calls itself the 
+  Swiss Army knife of markup converters and can convert to and from a huge number of formats.
+   Unfortunately, these conversions are rarely perfect. If one day you decide that you'd rather 
+  write in AsciiDoc instead of Markdown, expect to perform some manual cleanup after 
+  running the conversion script.
 
 
 ## So that's it? The Documenation Problem is Solved?
