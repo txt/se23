@@ -278,3 +278,6 @@ chunks, then reasons separately about each chunk:
 
 <img src="https://github.com/txt/se20/blob/master/etc/img/spiketree.png">
 
+_______
+
+To be continues (see [testing2](testing2.md)
