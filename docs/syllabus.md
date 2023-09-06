@@ -202,6 +202,7 @@ Tim Menzies
 
 ### Tutors
 
+
 San Gilson
 
 
@@ -211,7 +212,6 @@ San Gilson
 
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/sagilson/sagilson-cs510-oh?month=2023-08)
-
 
 
 <img src="http://ai4se.net/img/AndreMotta.jpg" align=right width=200>
@@ -245,6 +245,7 @@ Xueqi (Sherry) Yang
 
 
 <br clear=all>
+
 
 <p>&nbsp;</p>
 

@@ -1,14 +1,17 @@
-  <a name=top><p>&nbsp;<hr>
+  <a name=top><p>&nbsp;
   <p align=center>
   &nbsp;<a href="/README.md#top">home</a> &nbsp; | &nbsp;
   <a href="/docs/syllabus.md#top">syllabus</a> &nbsp; | &nbsp;
-  <a href="https://docs.google.com/spreadsheets/d/1KuW-SH46KmFW0grEX2wT01jicUSew_5sr1QdGuSrweU/edit#gid=0">groups</a> &nbsp; | &nbsp;
-  <a href="https://moodle-courses2223.wolfware.ncsu.edu/course/view.php?id=1771">moodle</a> &nbsp; | &nbsp;
-  <a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">video</a> &nbsp; | &nbsp;
+  <a href="https://docs.google.com/spreadsheets/d/1sdIwdLxZ551NChuj5Pm9FCdRRhxVdVVIPgDpNg5ZFVY/edit#gid=0">groups</a> &nbsp; | &nbsp;
+  <a href="https://moodle-courses2324.wolfware.ncsu.edu/course/view.php?id=4575">moodle</a> &nbsp; | &nbsp;
+  <a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=d992e131-df71-4368-940d-b064012a875c">video</a> &nbsp; | &nbsp;
   <a href="/docs/review.md">review</a> &nbsp; | &nbsp;
-  <a href="/LICENSE.md#top">&copy; 2022</a></p>
-  <hr>
-  <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
+  <a href="/LICENSE.md#top">&copy; 2023</a><br>
+  <a href="/README.md#top"><img   width=900 src="/docs/img/banner.png"></a></p><br clear=all>
+  
+
+
+
 
 
 
@@ -17,10 +20,12 @@
 
 ##  The Truth About Testing
 
+
 - "Don’t worry if it doesn’t work right.  If everything did, you’d be out of a job."
   -  Mosher’s Law of Software Engineering
 - "One (person)’s crappy software is another man’s full time job."
   -  Jessica Gaston
+
 
 Testing bingo: do you know  these terms?
 
@@ -39,7 +44,9 @@ Testing bingo: do you know  these terms?
 - Testing is hard
   - Infinitely good tests are infinitely expensive
 
+
 Lateri (see [testing2](testing2.md):
+
 
 - Types of testing
   - black box (aka functional), all-pairs, metamorphic testing, fuzzing (dumb, generational,
@@ -51,7 +58,9 @@ Lateri (see [testing2](testing2.md):
     - Triage
 - Software works (usually). Why? How can we exploit that?
 
+
 ## Quotes
+
 
 - f u cn rd ths, u cn gt a gd jb n sftwr tstng.<br>
   - Anonymous
@@ -68,7 +77,9 @@ Lateri (see [testing2](testing2.md):
   detective and the murderer.
   - Anon
 
+
 ## History
+
 
 Testing had to be discovered:
 - It was on one of my journeys between the EDSAC room and the
@@ -78,13 +89,18 @@ Testing had to be discovered:
   my own programs.
   - Maurice Wilkes 1951
 
+
 First bug
+
 
 <img width=600 src="https://www.globalapptesting.com/hs-fs/hubfs/the-first-ever-bug---debugging.jpg?width=2160&name=the-first-ever-bug---debugging.jpg">
 
+
 Testing is most of our effort:
 
+
 <img width=600 src="https://github.com/txt/se20/blob/master/etc/img/vdiagram.png">
+
 
 - V-diagram
   - "Without requirements or design, programming is the art of adding bugs to an empty text file."
@@ -98,6 +114,7 @@ Testing is most of our effort:
 
 
 ## Some Introductory Terms
+
 
 - Unit tests: testing your code
 - Systems test: testing how your code works with everyone else's (harder)
@@ -114,7 +131,9 @@ Testing is most of our effort:
     - Given numeric models, search space is infinite
   - Inside our software is more states than stars in the sky (10<sup>21</sup>)
 
+
 ## Testing for what?
+
 
 - Documentation :
   - Incomplete, always
@@ -130,21 +149,27 @@ Testing is most of our effort:
   - Network request response time?
   - Minimize variance in query spike time
 
+
 - For "usability"?
   - For other "ilities" (Maintainability, Customizanility,
     Scalability, Capacity, Availability, Reliability, Recoverability, Maintainability, Serviceability, Security, Regulatory, Manageability, Environmental, Data Integrity, Usability,
 Interoperability
 
+
 ## Testing is Easy (not): Test-driven-Development
+
 
 Have lots of unit tests!
 Run them, a lot!
 Get them all passing before checking back to main!
 Do not make them into a  religion!
 
+
 <img src="https://github.com/txt/se20/blob/master/etc/img/tddscreen.png">
 
+
 Tests suites that run every time you save code
+
 
 -  Build tests first
 - Repeat:
@@ -153,19 +178,23 @@ Tests suites that run every time you save code
   - Refactor= sometimes, clean things up
     - Refactoring means functionality _stays the same_ but the resulting _code is simpler_.
 
+
 - Tips:
   - rerun "python3 mycode.py" or some pytest equalizing
   - keep the tests short (or else)
+
 
 Test suites that you commit code.
   - `.travis.yml`
   - `.github/workflows/unittest.yml`
   - keep the tests short (perhaps, not so short)
 
+
 Kent Beck, 2003:
 - No studies have categorically demonstrated the difference between TDD and any of the many
   alternatives in quality, productivity, or fun.
   However, the anecdotal evidence is overwhelming, and the secondary effects are unmistakable
+
 
 [David Hansson](https://www.youtube.com/watch?v=9LfmrkyP81M),  2013:
 - Lots of developers that push TDD make you feel like your code is dirty if you are not using TDD.
@@ -175,9 +204,11 @@ Kent Beck, 2003:
 - The focus on the unit and the unit only does not help with producing a great system.
 - 100% coverage is silly
 
+
 Karac + Turhan (2018): TDD can't really be  defined or shown to be effective
 - [What Do We (Really) Know about Test-Driven Development? ](https://www.researchgate.net/profile/Itir_Karac/publication/326239274_What_Do_We_Really_Know_about_Test-Driven_Development/links/5cee7550299bf1f881494cf6/What-Do-We-Really-Know-about-Test-Driven-Development.pdf)
    - Itir Karac and Burak Turhan
+
 
 - TDD has too many cogs,
 - Its effectiveness is highly influenced by the context (for example, the tasks at hand or skills of individuals),
@@ -207,9 +238,12 @@ Karac + Turhan (2018): TDD can't really be  defined or shown to be effective
   experiments employed a coarse-grained test-last process closer to the waterfall
   approach as a control group
 
+
 ## Test is Hard
 
+
 ### What are you testing for?
+
 
 - Testing to check that the promised behavior actually works?
   - But the documentation is incomplete, always
@@ -235,9 +269,12 @@ Karac + Turhan (2018): TDD can't really be  defined or shown to be effective
       serviceability, security, regulatory, manageability, environmental,
       data integrity, interoperability fairness)
 
+
 <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-18344-2_3/MediaObjects/335121_1_En_3_Fig5_HTML.gif">
 
+
 ### Testing is Hard: a little Maths
+
 
 Consider test some web-based app
 - Everything that happens to it depends on events, elsewhere on the web
@@ -248,7 +285,9 @@ Consider test some web-based app
   _C(p,n) = 1- (1-p)<sup>n</sup>_
 - That's a lot of tests
 
+
 <img width=600 src="https://github.com/txt/se20/blob/master/etc/img/testmaths.png">
+
 
 Problems:
 - Infinite testing is infinitely expensive
@@ -261,23 +300,34 @@ Problems:
   - Events happen at probability _p_?
   - What _p_?
 
+
 <img width=500 src="https://raw.githubusercontent.com/txt/ase16/master/img/notnorm8.png">
+
 
 Also, what about rare events?
 
+
 <img width=600 src="https://github.com/txt/se20/blob/master/etc/img/spike.png">
+
 
 Can apply some non-simple stats to model arbitrary distributions as combinations of
 (e.g.) Gaussian kernels (think wavlets or Fourier series, if you
 know that stuff).
 
+
 <img src="https://blogs.sas.com/content/iml/files/2016/07/kdecomponents1.png">
+
 
 Or, for really weird functions, use non-parametric methods that divide the data into
 chunks, then reasons separately about each chunk:
 
+
 <img src="https://github.com/txt/se20/blob/master/etc/img/spiketree.png">
+
 
 _______
 
+
 To be continues (see [testing2](testing2.md)
+
+
