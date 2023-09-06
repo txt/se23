@@ -38,7 +38,7 @@ Basics: <td>
 ::    <a href="/docs/doc.md">Doco</a> 
 ::  <a href="/docs/testing1.md">Testing1</a>
 <td>
-  <a href="/docs/license.md">Licenses</a> 
+  <a href="/docs/licenses.md">Licenses</a> 
 ::  <a href="/docs/people.md">People+Processes</a> 
 </tr>
 <tr>
