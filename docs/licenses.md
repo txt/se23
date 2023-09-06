@@ -67,7 +67,7 @@ Licenses matter. They are one of the factors in deciding if you should use a pro
 
 * [Choose a license](https://choosealicense.com/) is a great resource for choosing a license.
 * Generally, the Apache and MIT licenses are very common (and permissive). If you do not know (or hold opinions), you should use one of these.
-  * The major difference: Apache does not allow you to patent your modifications.
+  * The major difference: Apache provides an express grant of patent rights.
 * The GPL (and AGPL) are strong copyleft licenses. If you want to ensure that your software remains open, you should use one of these.
   * The major difference: AGPL requires you to distribute your source code if you use the software over a network. This avoids the [Tivoization](https://en.wikipedia.org/wiki/Tivoization) problem.
   * These are also called "viral" licenses, because they require that any software that uses GPL software must also be GPL licensed.
@@ -80,6 +80,23 @@ Licenses matter. They are one of the factors in deciding if you should use a pro
     * Ask the maintainers nicely to add a license.
     * Don't use the software.
     * Negotiate a private license (bring your lawyer).
+
+## Some examples
+
+### [MIT License](https://choosealicense.com/licenses/mit/)
+
+* Allows commercial use
+* Allows modification and distribution
+* License and copyright notice must be included
+
+### [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
+
+* Allows commercial use
+* Allows modification and distribution
+* Allows patent use
+* License and notice must be included
+* Changes must be stated
+* Does not grant trademark rights
 
 # Class Activity
 
