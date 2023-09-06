@@ -589,7 +589,7 @@ of products.
 
 Question: what are the _different_ products we can pull from the following?
 
-<img src="https://www.researchgate.net/profile/Amador-Duran-Toro/publication/286904372/figure/fig2/AS:614139152056339@1523433592810/A-sample-feature-model-of-an-SPL-for-mobile-phones-using-a-FODA-like-notation.png">
+<img src="etc/fm001.png">
 
 Now that was a small feature model. Suppose we are talking about something
 really big like a formal model of the LINUX kernel with 4000 variables
