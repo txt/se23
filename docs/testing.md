@@ -589,7 +589,7 @@ of products.
 
 Question: what are the _different_ products we can pull from the following?
 
-<img src="etc/fm001.png">
+<img src="https://github.com/txt/se23/blob/main/docs/img/fm001.png">
 
 Now that was a small feature model. Suppose we are talking about something
 really big like a formal model of the LINUX kernel with 4000 variables
