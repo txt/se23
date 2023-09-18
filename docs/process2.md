@@ -20,6 +20,9 @@
 
 Let us consider two extremes of software process: waterfall vs scrumm
 
+![image](https://github.com/txt/se23/assets/29195/52c259a7-f480-422e-8f0a-b0acb33cfc8f)
+
+
 
 
 Both are management tools for controlling software development.
