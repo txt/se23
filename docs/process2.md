@@ -21,8 +21,10 @@
 Let us consider two extremes of software process: waterfall vs scrumm
 
 
+
 Both are management tools for controlling software development.
 
+<img src="https://sketchingscrummaster.files.wordpress.com/2020/06/agile-values-poaster-complete.png">
 
 ## Waterfall
 
@@ -71,7 +73,7 @@ Sprints:
 4. Go to step1
 
 
-Daily meetingsL
+Daily meetings:
 - Daily: run a meeting where everyone is standing up.  Ask everyone 3 questions:
 - What have you accomplished since we last met?
 - What do you plan to accomplish before the next meeting?
@@ -102,9 +104,8 @@ AgileFall:
 From an industry person: "have to get agile out of our copamany"
 - for hardware / software co-design,  h/ware developers need a solid target for their work
 - e.g. 4-6 month cycle
-  - Why,What,Who: motivations, users, user stories, high level decisions
-  - How : lower-level design
-  - Code : 
-  - Test : including h/ware integration
-
-
+  a. Why,What,Who: motivations, users, user stories, high level decisions
+  b. How : lower-level design
+  c. Code : 
+  d. Test : including h/ware integration
+- Note: same people, cloud platform,s happy to see abcd cycles as short as 1 week.
