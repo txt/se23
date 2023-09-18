@@ -325,9 +325,28 @@ chunks, then reasons separately about each chunk:
 <img src="https://github.com/txt/se20/blob/master/etc/img/spiketree.png">
 
 
+## And Finally...
+
+Testing is more than just "do we get the exepcted outputs". Rather it is how we explore code looking for wasy to improve it.
+- In the above example, the deceision tree was a model that the domainexerts used.
+- In the folloiwng case, Cruz et al.[^cruz21]  are "testing" 10,000 randomly geenrated cpntrol options for 5 learners for three domains::
+  -  who gets a new back account?
+  -  who's applciation is considered by a grant agency?
+  -  who should get  bail and who goes to jail?
+  -  x axis= accuracy (how mnay yes+no did you get right)
+  -  y-axis= random false alarms men:women and africanAmerican:whiteGuy (y=1 if same false alarm rate).
+
+[^cruz21]: A. F.Cruz, P. Saleiro, C. Belém, C. Soares and P. Bizarro, "Promoting Fairness through Hyperparameter Optimization," 2021 IEEE International Conference on Data Mining (ICDM), Auckland, New Zealand, 2021, pp. 1036-1041, doi: 10.1109/ICDM51629.2021.00119.
+
+
+![image](https://github.com/txt/se23/assets/29195/0280d2a8-85d1-47a1-bee2-f7289d2d7c26)
+
+
+Note where our "tests" take us to social issues such as fairness and discriminatioin.
+
 _______
 
 
-To be continues (see [testing2](testing2.md)
+To be continues (see [testing2](testing2.md))
 
 
