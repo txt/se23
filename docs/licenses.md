@@ -8,21 +8,31 @@
   <a href="/docs/review.md">review</a> &nbsp; | &nbsp;
   <a href="/LICENSE.md#top">&copy; 2023</a><br>
   <a href="/README.md#top"><img   width=900 src="/docs/img/banner.png"></a></p><br clear=all>
+  
+
+
+
 
 
 
 # Licenses
 
+
 ## What is a license?
+
 
 * Describes what you can, and more importantly, **cannot** do with a piece of software.
 * A license is a legal document. You *can* and [will](https://en.wikipedia.org/wiki/Open_source_license_litigation) be sued for violating its terms.
 
+
 Licenses matter. They are one of the factors in deciding if you should use a product [1]
+
 
 <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs42400-021-00084-8/MediaObjects/42400_2021_84_Fig2_HTML.png?as=webp">
 
+
 ### Why licenses?
+
 
 * Explicitly describes the rights users have over their software.
 * Traditional software is copyrighted: 
@@ -36,14 +46,18 @@ Licenses matter. They are one of the factors in deciding if you should use a pro
 * Example: who is to blame if the software causes burns down your server room?
   * Generally, the software author is not liable for damages, even (and especially in) open-source software.
 
+
 ## Free Software: The free as in beer vs. free as in freedom debate
+
 
 * Free as in beer: You can use it for free.
   * I buy you a beer, it's free for you.
 * Free as in speech: You can do whatever you want with it.
   * You are free to say whatever you want (but you may have to pay for it).
 
+
 ### Why is this important?
+
 
 * Very different rights as an end-user.
 * The source may be open, but:
@@ -54,7 +68,9 @@ Licenses matter. They are one of the factors in deciding if you should use a pro
   * What responsibilities do you bear as a user?
 * Example: [Tivoization](https://en.wikipedia.org/wiki/Tivoization)
 
+
 ### Who is Richard Stallman?
+
 
 * [Richard Stallman](stallman.org) is the founder of the [Free Software Foundation](https://www.fsf.org/).
 * He is the author of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (GPL).
@@ -63,7 +79,9 @@ Licenses matter. They are one of the factors in deciding if you should use a pro
 * The FSF has contributed, among other things, to GNU and the GCC.
 * If you ever hear someone talking about "GNU/Linux" (as opposed to merely "Linux"), [this](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy#Opinions) is what they are referring to.
 
+
 ## What license should I use?
+
 
 * [Choose a license](https://choosealicense.com/) is a great resource for choosing a license.
 * Generally, the Apache and MIT licenses are very common (and permissive). If you do not know (or hold opinions), you should use one of these.
@@ -81,15 +99,20 @@ Licenses matter. They are one of the factors in deciding if you should use a pro
     * Don't use the software.
     * Negotiate a private license (bring your lawyer).
 
+
 ## Some examples
 
+
 ### [MIT License](https://choosealicense.com/licenses/mit/)
+
 
 * Allows commercial use
 * Allows modification and distribution
 * License and copyright notice must be included
 
+
 ### [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
+
 
 * Allows commercial use
 * Allows modification and distribution
@@ -98,22 +121,29 @@ Licenses matter. They are one of the factors in deciding if you should use a pro
 * Changes must be stated
 * Does not grant trademark rights
 
+
 # Class Activity
 
+
 In the following scenarios, would you as a corporate software developer be allowed to use the software in your product?
+
 
 * [Linux kernel](https://github.com/torvalds/linux)
 * [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
 * [CKEditor](https://github.com/ckeditor/ckeditor5/)
 * [Qt](https://doc.qt.io/)
 
+
 # The philosophy of open source
+
 
 * Open source is a philosophy, not a license.
 * The [Open Source Initiative](https://opensource.org/) is a non-profit organization that promotes open source software.
 * The [Open Source Definition](https://opensource.org/osd) is a set of 10 criteria that a software license must meet to be considered open source.
 
+
 ## Does open source mean free?
+
 
 * No. Open source software can be sold.
 * However, it is generally free (as in beer).
@@ -122,7 +152,9 @@ In the following scenarios, would you as a corporate software developer be allow
 * The term FOSS (Free and Open Source Software) is often used to refer to software that is both free and open source.
   * Some people prefer the term FLOSS (Free/Libre and Open Source Software) to emphasize the distinction between free as in beer and free as in speech.
 
+
 ## Does open source pay the bills?
+
 
 * Sometimes. Some examples where it works:
   * [Red Hat](https://www.redhat.com/en)
@@ -134,9 +166,12 @@ In the following scenarios, would you as a corporate software developer be allow
   * [faker.js](https://web.archive.org/web/20210414082709/https://github.com/Marak/faker.js/issues/1046)
   * [core-js](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
 
+
 ## Parting thoughts: The Red Hat controversy (2023)
 
+
 [Full article](https://sfconservancy.org/blog/2023/jun/23/rhel-gpl-analysis/)
+
 
 * The Red Hat business model is to sell copies of RHEL under the GPL along with support for their customers.
 * The RHEL contract states that it does not intend to contradict the allowances of the GPL (such as redistributing copies), but Red Hat reserves the right to cancel that contract if the user does so.
@@ -148,6 +183,10 @@ In the following scenarios, would you as a corporate software developer be allow
 * In 2020, Red Hat ended CentOS entirely, instead changing it to CentOS Stream, a rolling-release set of packages related to RHEL.
 * In 2023, Red Hat announced that the CCS would no longer be available in any way. While the GPL did not require the CCS to exist (only customers would have needed to receive the source), it was a good-faith gesture that Red Hat was not violating the GPL.
 
+
 # References
 
+
 [1] Zhao, Y., Liang, R., Chen, X. et al.  Cybersecur 4, 20 (2021). https://doi.org/10.1186/s42400-021-00084-8
+
+

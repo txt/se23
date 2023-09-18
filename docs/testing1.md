@@ -327,6 +327,7 @@ chunks, then reasons separately about each chunk:
 
 ## And Finally...
 
+
 Testing is more than just "do we get the exepcted outputs". Rather it is how we explore code looking for wasy to improve it.
 - In the above example, the deceision tree was a model that the domainexerts used.
 - In the folloiwng case, Cruz et al.[^cruz21]  are "testing" 10,000 randomly geenrated cpntrol options for 5 learners for three domains::
@@ -336,6 +337,7 @@ Testing is more than just "do we get the exepcted outputs". Rather it is how we 
   -  x axis= accuracy (how mnay yes+no did you get right)
   -  y-axis= random false alarms men:women and africanAmerican:whiteGuy (y=1 if same false alarm rate).
 
+
 [^cruz21]: A. F.Cruz, P. Saleiro, C. Belém, C. Soares and P. Bizarro, "Promoting Fairness through Hyperparameter Optimization," 2021 IEEE International Conference on Data Mining (ICDM), Auckland, New Zealand, 2021, pp. 1036-1041, doi: 10.1109/ICDM51629.2021.00119.
 
 
@@ -343,6 +345,7 @@ Testing is more than just "do we get the exepcted outputs". Rather it is how we 
 
 
 Note where our "tests" take us to social issues such as fairness and discriminatioin.
+
 
 _______
 
