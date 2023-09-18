@@ -27,9 +27,21 @@ Let us consider two extremes of software process: waterfall vs scrumm
 
 Both are management tools for controlling software development.
 
+
+
+## (aside: what is "Agile")
+
+- Scrum is a type of agile
+- Scrum is broken down into shorter sprints and smaller deliverables
+-  In Agile, that is optional. In fact everything might be  delivered at the end of the project
+
 <img src="https://sketchingscrummaster.files.wordpress.com/2020/06/agile-values-poaster-complete.png">
 
 ## Waterfall
+
+- Making a good plan and sticking to it
+-  Very efficient for well-defined projects
+
 
 
 Large strategic control. Linear order of tasks:
@@ -44,25 +56,31 @@ Large strategic control. Linear order of tasks:
 Experience gained from step i+1 only allowed to feed back to step i
 
 
-Useful when:
+Used for:
 
+- For less complex projects with well defined requirements, processes and roles for team members.
 
 - For large military or government contracts, often need to get approval for resources before moving ahead.  
   - In that context, the thing you are building is defined once at the start during a complex negotiation process
        known as the “requirements stage”
 - For very long projects, software companies can’t afford to wait to the end to get paid. 
-  0 Waterfall offers landmarks along the way where non-programmers (read, accountants) can check off that some task is 
-  completed (so they can pay for that stage).
-
+  - Waterfall offers landmarks along the way where non-programmers (read, accountants) can check off that some task is 
+    completed (so they can pay for that stage).
+- Hware/Sware co-design (see notes at end).
 
 Less than useful when:
 
 
+- Too much rigidity built into the project.
+- Mid-project pivots require extensive re-engineering of the solution so far.
 - When experience downstream in the process leads to massive changes to all ideas upstream (e.g. consider a single test shows that the whole system is too slow and needs massive redesign).
 - Analysis paralysis: too much paper-driven activity, very little working code.
 
 
 ## Scrum
+
+- Adapt, Improvise, Overcome
+- High flexibility
 
 
 - Smaller scale tactical meetings.
@@ -85,7 +103,7 @@ Daily meetings:
 
 Very useful when:
 
-
+- When a project is based on incremental progress, complex deliverables or consists of multiple, not always sequential timelines.
 - When dealing with small groups whose skills you trust, and no one is negotiating for specific dollar amounts before going ahead with the work.
 - When running agile.
 - When early feedback from running code can radically change your goals and designs.
@@ -95,6 +113,11 @@ Less than useful when:
 
 
 - When small incremental change gets harder and harder since the overall architecture is now a mess.
+- The project lost direction or is falling behind schedule.
+- Constant iteration and re-alignment of the project is stretching budgets and timelines
+
+
+
 
 
 ## Notes from recent meetings with industry
