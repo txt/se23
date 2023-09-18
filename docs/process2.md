@@ -35,7 +35,7 @@ Both are management tools for controlling software development.
 - Scrum is broken down into shorter sprints and smaller deliverables
 -  In Agile, that is optional. In fact everything might be  delivered at the end of the project
 
-<img src="https://sketchingscrummaster.files.wordpress.com/2020/06/agile-values-poaster-complete.png">
+<img width=500 src="https://sketchingscrummaster.files.wordpress.com/2020/06/agile-values-poaster-complete.png">
 
 ## Waterfall
 
