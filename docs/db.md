@@ -31,6 +31,11 @@
 * Very well-optimized, based on strong theoretical foundations
   * Decades of research into concurrency, transactions, etc.
 * Very mature, lots of tools and support
+* Want ACID (Atomicity, Consistency, Isolation, Durability)
+  * Atomicity: either the entire transaction succeeds, or it fails
+  * Consistency: the database is always in a valid state
+  * Isolation: concurrent transactions don't interfere with each other
+  * Durability: once a transaction is committed, it is permanent
   
 ### SQL
 
@@ -125,4 +130,80 @@ Design a *key-value* database (hint: use DynamoDB docs) for the following situat
 * Posts can have tags, or they may not. They may possess additional metadata such as location.
 * Complex querying is necessary.
 
+# Case Study: iMessage
 
+* On macOS, iMessage messages are stored in a SQLite database, at `~/Library/Messages/chat.db`
+* Part of the schema is as follows:
+  * `message`: the message itself
+  * `handle`: the phone number or email address of the sender
+  * `chat`: the chat that the message belongs to
+  * `chat_handle_join`: a join table between `chat` and `handle`
+  * `attachment`: an attachment to a message
+  * `message_attachment_join`: a join table between `message` and `attachment`
+* Let's run some queries! [source 1](https://spin.atomicobject.com/2020/05/22/search-imessage-sql/), [source 2](https://arctype.com/blog/search-imessage/)
+
+## Query 1: Get all messages
+
+```sql
+SELECT
+    datetime (message.date / 1000000000 + strftime ("%s", "2001-01-01"), "unixepoch", "localtime") AS message_date,
+    message.text,
+    message.is_from_me,
+    chat.chat_identifier
+FROM
+    chat
+    JOIN chat_message_join ON chat. "ROWID" = chat_message_join.chat_id
+    JOIN message ON chat_message_join.message_id = message. "ROWID"
+ORDER BY
+    message_date ASC;
+```
+
+![](./img/sql1.png)
+
+## Query 2: Count messages
+
+```sql
+SELECT
+    chat.chat_identifier,
+    count(chat.chat_identifier) AS message_count
+FROM
+    chat
+    JOIN chat_message_join ON chat. "ROWID" = chat_message_join.chat_id
+    JOIN message ON chat_message_join.message_id = message. "ROWID"
+GROUP BY
+    chat.chat_identifier
+ORDER BY
+    message_count DESC;
+```
+
+## Query 3: Get ratio that you reply
+
+```sql
+SELECT
+    h.id,
+    COUNT(1) AS cnt,
+    ROUND(
+        SUM(
+            CASE
+                WHEN m.is_from_me then 1
+                ELSE 0
+            END
+        ) * 1.0 / COUNT(1) * 100.0,
+        2
+    ) AS ratio
+FROM
+    message m
+    JOIN handle h ON h.rowid = m.handle_id
+GROUP BY
+    h.id
+ORDER BY
+    cnt desc
+LIMIT
+    10;
+```
+
+## The ER Diagram
+
+For those of you morbidly curious:
+
+![](./img/er.png)
