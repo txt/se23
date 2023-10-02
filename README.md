@@ -44,9 +44,11 @@ Basics: <td>
 </tr>
 <tr>
 <td>
-More: <td><td>
+More: <td>
     <a href="/docs/ethics.md">Ethics</a>
-::   <a href="/docs/require.md">Requirements</a>
+
+<td>
+   <a href="/docs/require.md">Requirements</a>
 ::     <a href="/docs/patterns.md">Patterns</a>
 ::    <a href="/docs/abstract.md">Abstraction</a>
 ::  <a href="/docs/db.md">Databases</a>
