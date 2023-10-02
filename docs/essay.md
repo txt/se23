@@ -72,6 +72,8 @@ Create an overleaf.com account
 
 |Grade | What | Notes|
 |------|------|------|
+|-3| POOR ESSAY STRUCCTURE | We want coherent paragraphs, not a bullet list. References are used in a way that enhances the argument. Paragraphs should be content-full (rather that a set of irrelevances). Arguments should be defended and not just be opinions of the form "I think that..." (with no supporting clauses). Each section should start with some clarification/structuring
+preamble.  |
 |2 |PROBLEM DEFINITION | +1 if it states the problem and +1 more if does it well; e.g. situates current problem in broader content|
 |2 | GATHER RELEVANT FACTS | +1 if it gather assess relevant facts and +1 more if does it well; e.g. extensive literature review |
 |2 | IDENTIFY STAKEHOLDERS | +1 if it identifies the stakeholders and +1 more if does it well; e.g. shows how skackholder requirements can be contradictory|
