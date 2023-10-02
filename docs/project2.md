@@ -23,6 +23,7 @@ For project2, implement something "interesting" and try to "sell" it to the rest
 
 Implement something "interesting":
 
+
 - We expect most groups will take one of the five projects they explored in proj1, then make some significant extension. 
   - The definition of "significant" is up to you but it must impress your tutor (who will be grading it).
 - In a few cases, we will accept changing to something totally different 
@@ -33,14 +34,18 @@ Implement something "interesting":
 
 Selling it:
 
+
 - To this end, build code in a "impressive" repo (where "impressive" means all the features included in the rubric).
 - Prepare a poster on your project, which will be presented to the class in a "poster-fest" (we take over the lecture hall; groups put up posters all over the room;
 everyone walks around "shopping" for their project3; groups representative's stand by their posters "selling" the work).
 - Note that if someone selects your work for their project3, you will get the bonus marks stated in the syllabus.
 
+
 ## Important Note
 
+
 You will **not** be working on this code for Project3. Instead, you will be taking on some other group's work and adding a significant extension.
+
 
 ## How to submit
 
