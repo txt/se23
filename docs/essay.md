@@ -22,7 +22,7 @@ Work solo. **IMPORTANT**: read [the lecture on ethics](/docs/ethics.md) before y
 
 
 ## What to write
-- Using these <a href="/etc/img/12steps.png">7 steps</a> as an outline
+- Using these <a href="12steps.png">7 steps</a> as an outline
 - Address one of the [case studies](https://onlineethics.org/resources?combine=software&field_keywords_target_id=&field_resource_type_target_id=13236)
 
 
