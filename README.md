@@ -72,7 +72,7 @@ Ocy 23| x| Midterm2
 Nov 13|  |Proj3
 Nov 22|x |  Xgiving break   
 Nov 27|x|   Midterm3  
-Dec  4 |x|   Essay    
+Dec  4 |x|   [Essay](/docs/essay.md)    
 Dec 13|  |Exam,12pm (\*)    
 
 (\*) For  students who want to replace
