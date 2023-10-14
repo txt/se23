@@ -67,7 +67,7 @@ More: <td>
 Sept 18|  |[Proj1](/docs/project1.md)    
 Sept 25|x|  Midterm1   
 Oct 9|x|  Fall break   
-Oct 16|  |[Proj2](/docs/project2.md)    
+Oct 19|  |[Proj2](/docs/project2.md)    
 Ocy 23| x| Midterm2   
 Nov 13|  |Proj3
 Nov 22|x |  Xgiving break   
