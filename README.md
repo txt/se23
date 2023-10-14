@@ -70,7 +70,7 @@ Oct 9|x|  Fall break
 Oct 19|  |[Proj2](/docs/project2.md)    
 Oct 23| x| Midterm2   
 Oct  25| x | Pitch1 (odd numbered groups)
-Oct 30| x | Pitch2 (evem numbered groups)
+Oct 30| x | Pitch2 (even numbered groups)
 Nov 13|  |Proj3
 Nov 22|x |  Xgiving break   
 Nov 27|x|   Midterm3  
