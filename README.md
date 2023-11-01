@@ -52,7 +52,7 @@ More: <td><td>
 ::  <a href="/docs/db.md">Databases</a>
 ::  <a href="/docs/testing2.md">Testing2</a>
 ::    <a href="/docs/cloud.md">Cloud</a>
-::   <a href="/docs/ai4se.md">AI for SE</a>
+::   <a href="/docs/ai4se.pdf">AI for SE</a>
 </tr>
 </table>
 
