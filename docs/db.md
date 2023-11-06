@@ -237,14 +237,6 @@ GRANT ALL PRIVILEGES ON db.* TO 'myUsername'@'localhost';
 FLUSH PRIVILEGES;
 ```
 
-### Set up a .NET Project
-
-```
-cd mysql
-dotnet new console
-dotnet add package Pomelo.EntityFrameworkCore.MySql
-```
-
 ### Add the first database migration
 
 Code based on [these docs](https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app?tabs=netcore-cli#install-entity-framework-core).
@@ -252,16 +244,13 @@ Code based on [these docs](https://learn.microsoft.com/en-us/ef/core/get-started
 At this point, you would add your model's code. Instead, you will save time by checking out the code at this point:
 
 ```
-git checkout ba99aa4
-dotnet add package Microsoft.EntityFrameworkCore.Design
-dotnet ef migrations add InitialCreate
+dotnet ef migrations list
 dotnet ef database update
 ```
 
 You've now updated the database! We can query it. Let's get the new code:
 
 ```
-git checkout d6956e9
 dotnet run
 ```
 
@@ -282,10 +271,7 @@ Delete the blog
 
 ```
 apt-get install -y mongodb-org
-systemctl start mongodb
-
-wget https://fastdl.mongodb.org/tools/db/mongodb-database-tools-ubuntu2204-x86_64-100.9.0.deb
-dpkg -i ./mongodb-database-tools-ubuntu2204-x86_64-100.9.0.deb
+mongod --fork --logpath /var/log/mongod.log
 ```
 
 ### Load data
@@ -301,6 +287,6 @@ mongoimport --db test --file data.json --jsonArray
 We will now fetch the code for the example and run it:
 
 ```
-git checkout be88576
+npm i mongodb
 node example.js
 ```
