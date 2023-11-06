@@ -44,13 +44,15 @@ Basics: <td>
 </tr>
 <tr>
 <td>
-More: <td><td>
+More: <td>
     <a href="/docs/ethics.md">Ethics</a>
-::   <a href="/docs/require.md">Requirements</a>
+::  <a href="/docs/testing2.md">Testing2</a>
+<td>
+   <a href="/docs/require.md">Requirements</a>
 ::     <a href="/docs/patterns.md">Patterns</a>
 ::    <a href="/docs/abstract.md">Abstraction</a>
 ::  <a href="/docs/db.md">Databases</a>
-::  <a href="/docs/testing2.md">Testing2</a>
+
 ::    <a href="/docs/cloud.md">Cloud</a>
 ::   <a href="/docs/ai4se.pdf">AI for SE</a>
 </tr>
@@ -62,15 +64,17 @@ More: <td><td>
 
 |When| No lecture| What|
 |----|:------:|-----|
-Sept 18|  |Proj1    
+Sept 18|  |[Proj1](/docs/project1.md)    
 Sept 25|x|  Midterm1   
 Oct 9|x|  Fall break   
-Oct 16|  |Proj2    
-Ocy 23| x| Midterm2   
-Nov 13|  |Proj3
+Oct 19|  |[Proj2](/docs/project2.md)    
+Oct 23| x| Midterm2   
+Oct  25| x | Pitch1 (odd numbered groups)
+Oct 30| x | Pitch2 (even numbered groups)
+Nov 22|  | [Proj3](/docs/project3.md)
 Nov 22|x |  Xgiving break   
 Nov 27|x|   Midterm3  
-Dec  4 |x|   Essay    
+Dec  4 |x|   [Essay](/docs/essay.md)    
 Dec 13|  |Exam,12pm (\*)    
 
 (\*) For  students who want to replace

@@ -15,16 +15,12 @@
 
 
 
-# Project2
+# Project3
 
 
-For project2, implement something "interesting" and try to "sell" it to the rest of the class.
+For project3, extend project2 in  some  "significant" way.
 
 
-Implement something "interesting":
-
-
-- We expect most groups will take one of the five projects they explored in proj1, then make some significant extension. 
   - The definition of "significant" is up to you but it must impress your tutor (who will be grading it).
 - In a few cases, we will accept changing to something totally different 
   - To make the change, grab an appointment time with a tutor and explain why the change. Make a good case. 
@@ -32,31 +28,29 @@ Implement something "interesting":
   - The tutor will make a recommendation to the lecturer. Lecturer's decision will be final.
 
 
-Selling it:
-
-
-- To this end, build code in a "impressive" repo (where "impressive" means all the features included in the rubric).
-- Prepare a poster on your project, which will be presented to the class in a "poster-fest" (we take over the lecture hall; groups put up posters all over the room;
-everyone walks around "shopping" for their project3; groups representative's stand by their posters "selling" the work).
-- Note that if someone selects your work for their project3, you will get the bonus marks stated in the syllabus.
+Include an  "impressive" repo (where "impressive" means all the features included in the rubric).
 
 
 ## Important Note
 
 
-You will **not** be working on this code for Project3. Instead, you will be taking on some other group's work and adding a significant extension.
+For project3, here may be one or two other groups working to extend the same proiect2. Please work seperately (seperate repos),
 
 
+ 
 ## How to submit
 
 
 - Create a public Github repo (not at NC state)
-- a sub-directory "proj2"
-- Place your score cards and link to video into "proj2/README.md"
+- Create a branch of that repo "project3"
+- Place your score cards and link to video into a directory "/proj3/README.md"
 - Submit a url to your GH project to Moodle.
 
 
 ## Grading Rubric
+
+
+As per project2. 
 
 
 Prepare a markdown table with **three** columns:

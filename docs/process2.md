@@ -20,16 +20,15 @@
 
 Let us consider two extremes of software process: waterfall vs scrumm
 
+
 ![image](https://github.com/txt/se23/assets/29195/52c259a7-f480-422e-8f0a-b0acb33cfc8f)
-
-
 
 
 Both are management tools for controlling software development.
 
 
-
 ## (aside: what is "Agile")
+
 
 - Scrum is a type of agile
 - Scrum is broken down into shorter sprints and smaller deliverables
@@ -41,9 +40,9 @@ Both are management tools for controlling software development.
 
 ## Waterfall
 
+
 - Making a good plan and sticking to it
 -  Very efficient for well-defined projects
-
 
 
 Large strategic control. Linear order of tasks:
@@ -60,7 +59,9 @@ Experience gained from step i+1 only allowed to feed back to step i
 
 Used for:
 
+
 - For less complex projects with well defined requirements, processes and roles for team members.
+
 
 - For large military or government contracts, often need to get approval for resources before moving ahead.  
   - In that context, the thing you are building is defined once at the start during a complex negotiation process
@@ -69,6 +70,7 @@ Used for:
   - Waterfall offers landmarks along the way where non-programmers (read, accountants) can check off that some task is 
     completed (so they can pay for that stage).
 - Hware/Sware co-design (see notes at end).
+
 
 Less than useful when:
 
@@ -80,6 +82,7 @@ Less than useful when:
 
 
 ## Scrum
+
 
 - Adapt, Improvise, Overcome
 - High flexibility
@@ -105,6 +108,7 @@ Daily meetings:
 
 Very useful when:
 
+
 - When a project is based on incremental progress, complex deliverables or consists of multiple, not always sequential timelines.
 - When dealing with small groups whose skills you trust, and no one is negotiating for specific dollar amounts before going ahead with the work.
 - When running agile.
@@ -117,9 +121,6 @@ Less than useful when:
 - When small incremental change gets harder and harder since the overall architecture is now a mess.
 - The project lost direction or is falling behind schedule.
 - Constant iteration and re-alignment of the project is stretching budgets and timelines
-
-
-
 
 
 ## Notes from recent meetings with industry
@@ -137,3 +138,5 @@ From an industry person: "have to get agile out of our copamany"
   c. Code : 
   d. Test : including h/ware integration
 - Note: same people, cloud platform,s happy to see abcd cycles as short as 1 week.
+
+
