@@ -12,7 +12,11 @@
 
 
 
+
+
+
 # Databases
+
 
 * Structured way to store data
 * Why not just use a text file, like a CSV?
@@ -21,7 +25,9 @@
   * What about security?
   * What about concurrency?
 
+
 ## Relational Databases (aka, CSC540 in 10 minutes)
+
 
 * Most common
 * Use SQL (Structured Query Language) or its various dialects
@@ -39,11 +45,14 @@
   
 ### SQL
 
+
 * Based on relational algebra
 * Includes commands, triggers, stored procedures, etc.
 * Example commands: `SELECT`, `INSERT`, `UPDATE`, etc.
 
+
 ### How to write SQL
+
 
 * The basic way: write a `.sql` file with the commands in it
   * Then run it with `sqlite3` or `psql` or whatever
@@ -59,7 +68,9 @@
   * More complex, but extremely flexible, and takes care of SQL in the background
     * Generates ugly, but very well-optimized SQL
 
+
 ### SQL Dialects
+
 
 * SQL is a standard, but there are many dialects
 * The most common are:
@@ -68,13 +79,16 @@
   * MySQL: very popular, but not very standard
   * Microsoft SQL Server: very powerful, but expensive
 
+
 ## Key-Value Databases
+
 
 * Very simple
 * NoSQL
 * No schema
 * Extremely fast
 * Example: DynamoDB, Redis, etc.
+
 
 DynamoDB Example:
 ```
@@ -97,6 +111,7 @@ DynamoDB Example:
 }
 ```
 
+
 * Kinds of primary keys:
   * Simple: just a single key (called a partition key)
   * Composite: (partition key, sort key)
@@ -104,14 +119,18 @@ DynamoDB Example:
 * Can create a secondary index
   * Can be global (different partition key and sort key) or local (same partition key, different sort key)
 
+
 ## Document Databases
+
 
 * NoSQL
 * No schema
 * Example: MongoDB, CouchDB, etc.
 * In MongoDB, querying is preferred using [aggregation pipelines](https://www.mongodb.com/docs/manual/aggregation/#std-label-aggregation-pipeline-intro), which consists of a set of stages, each of which processes an input of documents (MongoDB lingo for objects), and passes the output to the next stage.
 
+
 ## Graph Databases
+
 
 * NoSQL
 * No schema
@@ -121,16 +140,21 @@ DynamoDB Example:
 * Great for capturing semantic knowledge that links various entities.
 * Example: in a study, we used ML along with a knowledge graph (ROBOKOP) to identify a clinical outcome pathway (COP) that showed a link between lower testosterone levels and increased risk of obesity in men.
 
+
 ![](./img/cop.png)
 
+
 # Class Activity (12 min)
+
 
 Design a *key-value* database (hint: use DynamoDB docs) for the following situation. You are to implement a database for a social media platform. 
 * This database needs to include fields for multiple data types, such as text, images, and videos
 * Posts can have tags, or they may not. They may possess additional metadata such as location.
 * Complex querying is necessary.
 
+
 # Case Study: iMessage
+
 
 * On macOS, iMessage messages are stored in a SQLite database, at `~/Library/Messages/chat.db`
 * Part of the schema is as follows:
@@ -142,7 +166,9 @@ Design a *key-value* database (hint: use DynamoDB docs) for the following situat
   * `message_attachment_join`: a join table between `message` and `attachment`
 * Let's run some queries! [source 1](https://spin.atomicobject.com/2020/05/22/search-imessage-sql/), [source 2](https://arctype.com/blog/search-imessage/)
 
+
 ## Query 1: Get all messages
+
 
 ```sql
 SELECT
@@ -158,9 +184,12 @@ ORDER BY
     message_date ASC;
 ```
 
+
 ![](./img/sql1.png)
 
+
 ## Query 2: Count messages
+
 
 ```sql
 SELECT
@@ -176,7 +205,9 @@ ORDER BY
     message_count DESC;
 ```
 
+
 ## Query 3: Get ratio that you reply
+
 
 ```sql
 SELECT
@@ -202,8 +233,13 @@ LIMIT
     10;
 ```
 
+
 ## The ER Diagram
+
 
 For those of you morbidly curious:
 
+
 ![](./img/er.png)
+
+
