@@ -70,9 +70,9 @@ Oct 19|  |[Proj2](/docs/project2.md)
 Oct 23| x| Midterm2   
 Oct  25| x | Pitch1 (odd numbered groups)
 Oct 30| x | Pitch2 (even numbered groups)
-Nov 22|  | [Proj3](/docs/project3.md)
 Nov 22|x |  Xgiving break   
-Nov 27|x|   Midterm3  
+Nov 27|  | [Proj3](/docs/project3.md)
+<strike> Nov 27|x|   <strike>Midterm3  (cancelled)
 Dec  4 |x|   [Essay](/docs/essay.md)    
 Dec 13|  |Exam,12pm (\*)    
 
